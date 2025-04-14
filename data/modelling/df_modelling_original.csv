@@ -1,0 +1,647 @@
+context,winner_index,winner,votedFor,userDetails.country,userDetails.language,userDetails.userScore,userDetails.age,userDetails.gender,userDetails.occupation,model1,model2,winner_model,voted_for_model,continent
+A blue bunny in a pink water toilet bowl.,1,dalle3_bunny.jpg,dalle3_bunny.jpg,ES,es,0.6753,18-29,Female,Unknown,4o,dalle3,dalle3,dalle3,Europe
+A blue bunny in a pink water toilet bowl.,1,dalle3_bunny.jpg,dalle3_bunny.jpg,EG,ar,0.4068,40-49,Other,Education,4o,dalle3,dalle3,dalle3,Africa
+A blue bunny in a pink water toilet bowl.,1,dalle3_bunny.jpg,dalle3_bunny.jpg,RS,sr,0.7039,50-64,Male,Education,4o,dalle3,dalle3,dalle3,Europe
+A blue bunny in a pink water toilet bowl.,1,dalle3_bunny.jpg,4o_bunny.jpg,BO,es,0.3385,0-17,Other,Other Employment,4o,dalle3,dalle3,4o,South America
+A blue bunny in a pink water toilet bowl.,1,dalle3_bunny.jpg,4o_bunny.jpg,RS,sr,0.3717,40-49,Female,Unemployed or Student,4o,dalle3,dalle3,4o,Europe
+A blue bunny in a pink water toilet bowl.,1,halfmoon_bunny.jpg,halfmoon_bunny.jpg,IN,en,0.4374,Unknown,Unknown,Unknown,4o,halfmoon,halfmoon,halfmoon,Asia
+A blue bunny in a pink water toilet bowl.,1,halfmoon_bunny.jpg,halfmoon_bunny.jpg,RS,sr,0.4644,50-64,Male,Technology,4o,halfmoon,halfmoon,halfmoon,Europe
+A blue bunny in a pink water toilet bowl.,1,halfmoon_bunny.jpg,halfmoon_bunny.jpg,RS,hr,0.4042,18-29,Female,Healthcare,4o,halfmoon,halfmoon,halfmoon,Europe
+A blue bunny in a pink water toilet bowl.,1,halfmoon_bunny.jpg,4o_bunny.jpg,DE,de,0.6962,Unknown,Unknown,Unknown,4o,halfmoon,halfmoon,4o,Europe
+A blue bunny in a pink water toilet bowl.,1,halfmoon_bunny.jpg,halfmoon_bunny.jpg,AT,de,0.7959,50-64,Female,Skilled Manual Trades,4o,halfmoon,halfmoon,halfmoon,Europe
+A blue bunny in a pink water toilet bowl.,1,halfmoon_bunny.jpg,halfmoon_bunny.jpg,TR,tr,0.0415,Unknown,Unknown,Unknown,4o,halfmoon,halfmoon,halfmoon,Asia
+A blue bunny in a pink water toilet bowl.,1,halfmoon_bunny.jpg,halfmoon_bunny.jpg,BR,pt,0.4375,Unknown,Unknown,Unknown,4o,halfmoon,halfmoon,halfmoon,South America
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,stablediffusion_bunny.jpg,IN,en,0.0869,Unknown,Unknown,Unknown,4o,stablediffusion,stablediffusion,stablediffusion,Asia
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,stablediffusion_bunny.jpg,IN,en,0.3135,50-64,Male,Unemployed or Student,4o,stablediffusion,stablediffusion,stablediffusion,Asia
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,stablediffusion_bunny.jpg,KE,en,0.4421,18-29,Female,Unknown,4o,stablediffusion,stablediffusion,stablediffusion,Africa
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,4o_bunny.jpg,EG,ar,0.2618,65+,Other,None of these,4o,stablediffusion,stablediffusion,4o,Africa
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,stablediffusion_bunny.jpg,EG,en,0.2052,18-29,Female,Education,4o,stablediffusion,stablediffusion,stablediffusion,Africa
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,4o_bunny.jpg,DZ,en,0.228,50-64,Female,Education,4o,stablediffusion,stablediffusion,4o,Africa
+A blue bunny in a pink water toilet bowl.,0,dalle3_bunny.jpg,halfmoon_bunny.jpg,ES,es,0.6997,18-29,Female,Unknown,dalle3,halfmoon,dalle3,halfmoon,Europe
+A blue bunny in a pink water toilet bowl.,0,dalle3_bunny.jpg,dalle3_bunny.jpg,TR,tr,0.2212,18-29,Female,Unemployed or Student,dalle3,halfmoon,dalle3,dalle3,Asia
+A blue bunny in a pink water toilet bowl.,0,dalle3_bunny.jpg,dalle3_bunny.jpg,RS,sr,0.0794,0-17,Male,Other Employment,dalle3,halfmoon,dalle3,dalle3,Europe
+A blue bunny in a pink water toilet bowl.,0,dalle3_bunny.jpg,dalle3_bunny.jpg,KE,en,0.4421,18-29,Female,Unknown,dalle3,halfmoon,dalle3,dalle3,Africa
+A blue bunny in a pink water toilet bowl.,0,dalle3_bunny.jpg,dalle3_bunny.jpg,MZ,pt,0.5982,50-64,Other,Creative & Media,dalle3,halfmoon,dalle3,dalle3,Africa
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,dalle3_bunny.jpg,IN,en,0.2293,0-17,Female,Healthcare,dalle3,stablediffusion,stablediffusion,dalle3,Asia
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,stablediffusion_bunny.jpg,AO,pt,0.4338,Unknown,Unknown,Unknown,dalle3,stablediffusion,stablediffusion,stablediffusion,Africa
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,dalle3_bunny.jpg,IN,en,0.1712,Unknown,Unknown,Unknown,dalle3,stablediffusion,stablediffusion,dalle3,Asia
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,stablediffusion_bunny.jpg,TR,tr,0.4201,0-17,Female,Other Employment,dalle3,stablediffusion,stablediffusion,stablediffusion,Asia
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,stablediffusion_bunny.jpg,MA,fr,0.5391,Unknown,Unknown,Unknown,dalle3,stablediffusion,stablediffusion,stablediffusion,Africa
+A blue bunny in a pink water toilet bowl.,0,halfmoon_bunny.jpg,stablediffusion_bunny.jpg,IT,it,0.3583,30-39,Male,Healthcare,halfmoon,stablediffusion,halfmoon,stablediffusion,Europe
+A blue bunny in a pink water toilet bowl.,0,halfmoon_bunny.jpg,stablediffusion_bunny.jpg,EG,ar,0.3805,30-39,Female,Other Employment,halfmoon,stablediffusion,halfmoon,stablediffusion,Africa
+A blue bunny in a pink water toilet bowl.,0,halfmoon_bunny.jpg,halfmoon_bunny.jpg,TZ,en,0.3,Unknown,Unknown,Unknown,halfmoon,stablediffusion,halfmoon,halfmoon,Africa
+A blue bunny in a pink water toilet bowl.,0,halfmoon_bunny.jpg,halfmoon_bunny.jpg,IN,en,0.5679,Unknown,Unknown,Unknown,halfmoon,stablediffusion,halfmoon,halfmoon,Asia
+A blue bunny in a pink water toilet bowl.,0,halfmoon_bunny.jpg,halfmoon_bunny.jpg,EG,en,0.6452,Unknown,Unknown,Unknown,halfmoon,stablediffusion,halfmoon,halfmoon,Africa
+A blue bunny in a pink water toilet bowl.,0,halfmoon_bunny.jpg,stablediffusion_bunny.jpg,IN,en,0.2803,18-29,Male,Unknown,halfmoon,stablediffusion,halfmoon,stablediffusion,Asia
+A blue bunny in a pink water toilet bowl.,1,dalle3_bunny.jpg,4o_bunny.jpg,KZ,ru,0.3752,Unknown,Unknown,Unknown,4o,dalle3,dalle3,4o,Asia
+A blue bunny in a pink water toilet bowl.,1,dalle3_bunny.jpg,dalle3_bunny.jpg,LY,ar,0.2042,40-49,Female,Education,4o,dalle3,dalle3,dalle3,Africa
+A blue bunny in a pink water toilet bowl.,1,dalle3_bunny.jpg,4o_bunny.jpg,IN,en,0.1589,18-29,Female,Unemployed or Student,4o,dalle3,dalle3,4o,Asia
+A blue bunny in a pink water toilet bowl.,1,dalle3_bunny.jpg,dalle3_bunny.jpg,ID,en,0.7226,Unknown,Unknown,Unknown,4o,dalle3,dalle3,dalle3,Asia
+A blue bunny in a pink water toilet bowl.,1,dalle3_bunny.jpg,dalle3_bunny.jpg,IN,en,0.1753,0-17,Female,Other Creative & Media Professional,4o,dalle3,dalle3,dalle3,Asia
+A blue bunny in a pink water toilet bowl.,0,4o_bunny.jpg,4o_bunny.jpg,ES,es,0.6753,18-29,Female,Unknown,4o,halfmoon,4o,4o,Europe
+A blue bunny in a pink water toilet bowl.,0,4o_bunny.jpg,4o_bunny.jpg,DZ,en,0.65,Unknown,Unknown,Unknown,4o,halfmoon,4o,4o,Africa
+A blue bunny in a pink water toilet bowl.,0,4o_bunny.jpg,4o_bunny.jpg,RU,ru,0.4594,Unknown,Unknown,Unknown,4o,halfmoon,4o,4o,Europe
+A blue bunny in a pink water toilet bowl.,0,4o_bunny.jpg,halfmoon_bunny.jpg,IN,en,0.4545,18-29,Other,Unemployed or Student,4o,halfmoon,4o,halfmoon,Asia
+A blue bunny in a pink water toilet bowl.,0,4o_bunny.jpg,halfmoon_bunny.jpg,IN,en,0.0,Unknown,Unknown,Unknown,4o,halfmoon,4o,halfmoon,Asia
+A blue bunny in a pink water toilet bowl.,0,4o_bunny.jpg,4o_bunny.jpg,RU,ru,0.4707,30-39,Other,Skilled Manual Trades,4o,halfmoon,4o,4o,Europe
+A blue bunny in a pink water toilet bowl.,0,4o_bunny.jpg,4o_bunny.jpg,PH,en,0.3721,65+,Male,Technology,4o,stablediffusion,4o,4o,Asia
+A blue bunny in a pink water toilet bowl.,0,4o_bunny.jpg,stablediffusion_bunny.jpg,AO,pt,0.4338,Unknown,Unknown,Unknown,4o,stablediffusion,4o,stablediffusion,Africa
+A blue bunny in a pink water toilet bowl.,0,4o_bunny.jpg,4o_bunny.jpg,TR,tr,0.3612,65+,Other,Other Employment,4o,stablediffusion,4o,4o,Asia
+A blue bunny in a pink water toilet bowl.,0,4o_bunny.jpg,4o_bunny.jpg,FR,fr,0.6712,Unknown,Unknown,Unknown,4o,stablediffusion,4o,4o,Europe
+A blue bunny in a pink water toilet bowl.,0,4o_bunny.jpg,stablediffusion_bunny.jpg,IN,en,0.3783,18-29,Other,Skilled Manual Trades,4o,stablediffusion,4o,stablediffusion,Asia
+A blue bunny in a pink water toilet bowl.,0,dalle3_bunny.jpg,dalle3_bunny.jpg,IN,en,0.3574,18-29,Other,Skilled Manual Trades,dalle3,halfmoon,dalle3,dalle3,Asia
+A blue bunny in a pink water toilet bowl.,0,dalle3_bunny.jpg,halfmoon_bunny.jpg,RU,ru,0.6403,50-64,Female,Other Employment,dalle3,halfmoon,dalle3,halfmoon,Europe
+A blue bunny in a pink water toilet bowl.,0,dalle3_bunny.jpg,halfmoon_bunny.jpg,IN,en,0.526,30-39,Female,Unemployed or Student,dalle3,halfmoon,dalle3,halfmoon,Asia
+A blue bunny in a pink water toilet bowl.,0,dalle3_bunny.jpg,dalle3_bunny.jpg,RU,ru,0.5751,Unknown,Unknown,Unknown,dalle3,halfmoon,dalle3,dalle3,Europe
+A blue bunny in a pink water toilet bowl.,0,dalle3_bunny.jpg,dalle3_bunny.jpg,TN,fr,0.5068,Unknown,Unknown,Unknown,dalle3,halfmoon,dalle3,dalle3,Africa
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,stablediffusion_bunny.jpg,FR,fr,0.5505,Unknown,Unknown,Unknown,dalle3,stablediffusion,stablediffusion,stablediffusion,Europe
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,stablediffusion_bunny.jpg,CD,fr,0.6584,18-29,Female,Other Employment,dalle3,stablediffusion,stablediffusion,stablediffusion,Africa
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,dalle3_bunny.jpg,IN,en,0.3783,18-29,Other,Skilled Manual Trades,dalle3,stablediffusion,stablediffusion,dalle3,Asia
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,stablediffusion_bunny.jpg,BF,fr,0.3451,30-39,Other,Other Employment,dalle3,stablediffusion,stablediffusion,stablediffusion,Africa
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,stablediffusion_bunny.jpg,TR,tr,0.3921,Unknown,Unknown,Unknown,dalle3,stablediffusion,stablediffusion,stablediffusion,Asia
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,stablediffusion_bunny.jpg,RU,ru,0.6593,65+,Other,Unknown,halfmoon,stablediffusion,stablediffusion,stablediffusion,Europe
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,stablediffusion_bunny.jpg,MZ,pt,0.5982,50-64,Other,Creative & Media,halfmoon,stablediffusion,stablediffusion,stablediffusion,Africa
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,stablediffusion_bunny.jpg,FR,fr,0.4577,Unknown,Unknown,Unknown,halfmoon,stablediffusion,stablediffusion,stablediffusion,Europe
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,stablediffusion_bunny.jpg,DE,de,0.186,Unknown,Unknown,Unknown,halfmoon,stablediffusion,stablediffusion,stablediffusion,Europe
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,stablediffusion_bunny.jpg,EG,en,0.2052,18-29,Female,Education,halfmoon,stablediffusion,stablediffusion,stablediffusion,Africa
+A family is having a barbecue in the park.,0,4o_family.jpg,dalle3_family.jpg,IN,hi,0.0,30-39,Female,Skilled Manual Trades,4o,dalle3,4o,dalle3,Asia
+A family is having a barbecue in the park.,0,4o_family.jpg,4o_family.jpg,DZ,en,0.6654,Unknown,Unknown,Unknown,4o,dalle3,4o,4o,Africa
+A family is having a barbecue in the park.,0,4o_family.jpg,4o_family.jpg,IN,en,0.4374,Unknown,Unknown,Unknown,4o,dalle3,4o,4o,Asia
+A family is having a barbecue in the park.,0,4o_family.jpg,4o_family.jpg,RS,sr,0.112,0-17,Male,Other Employment,4o,dalle3,4o,4o,Europe
+A family is having a barbecue in the park.,0,4o_family.jpg,dalle3_family.jpg,IN,en,0.1862,0-17,Female,Other Creative & Media Professional,4o,dalle3,4o,dalle3,Asia
+A family is having a barbecue in the park.,0,4o_family.jpg,4o_family.jpg,BD,en,0.5233,Unknown,Unknown,Unknown,4o,dalle3,4o,4o,Asia
+A family is having a barbecue in the park.,1,halfmoon_family.jpg,halfmoon_family.jpg,RS,sr,0.3711,65+,Female,Creative & Media,4o,halfmoon,halfmoon,halfmoon,Europe
+A family is having a barbecue in the park.,1,halfmoon_family.jpg,halfmoon_family.jpg,IT,it,0.1419,50-64,Other,Other Education Professional,4o,halfmoon,halfmoon,halfmoon,Europe
+A family is having a barbecue in the park.,1,halfmoon_family.jpg,halfmoon_family.jpg,RU,ru,0.4707,30-39,Other,Skilled Manual Trades,4o,halfmoon,halfmoon,halfmoon,Europe
+A family is having a barbecue in the park.,1,halfmoon_family.jpg,halfmoon_family.jpg,RU,ru,0.6807,50-64,Male,Technology,4o,halfmoon,halfmoon,halfmoon,Europe
+A family is having a barbecue in the park.,1,halfmoon_family.jpg,4o_family.jpg,TR,tr,0.2684,40-49,Male,Healthcare,4o,halfmoon,halfmoon,4o,Asia
+A family is having a barbecue in the park.,1,stablediffusion_family.jpg,stablediffusion_family.jpg,IN,en,0.3288,50-64,Male,Unemployed or Student,4o,stablediffusion,stablediffusion,stablediffusion,Asia
+A family is having a barbecue in the park.,1,stablediffusion_family.jpg,stablediffusion_family.jpg,UA,ru,0.2214,0-17,Unknown,Unknown,4o,stablediffusion,stablediffusion,stablediffusion,Europe
+A family is having a barbecue in the park.,1,stablediffusion_family.jpg,stablediffusion_family.jpg,PH,en,0.3255,0-17,Female,Technology,4o,stablediffusion,stablediffusion,stablediffusion,Asia
+A family is having a barbecue in the park.,1,stablediffusion_family.jpg,4o_family.jpg,DE,de,0.186,Unknown,Unknown,Unknown,4o,stablediffusion,stablediffusion,4o,Europe
+A family is having a barbecue in the park.,1,stablediffusion_family.jpg,stablediffusion_family.jpg,EG,ar,0.2412,0-17,Other,Technology,4o,stablediffusion,stablediffusion,stablediffusion,Africa
+A family is having a barbecue in the park.,0,dalle3_family.jpg,halfmoon_family.jpg,PH,en,0.4312,Unknown,Unknown,Unknown,dalle3,halfmoon,dalle3,halfmoon,Asia
+A family is having a barbecue in the park.,0,dalle3_family.jpg,dalle3_family.jpg,EG,en,0.3864,Unknown,Unknown,Unknown,dalle3,halfmoon,dalle3,dalle3,Africa
+A family is having a barbecue in the park.,0,dalle3_family.jpg,halfmoon_family.jpg,IN,en,0.4017,Unknown,Unknown,Unknown,dalle3,halfmoon,dalle3,halfmoon,Asia
+A family is having a barbecue in the park.,0,dalle3_family.jpg,dalle3_family.jpg,RU,ru,0.4594,Unknown,Unknown,Unknown,dalle3,halfmoon,dalle3,dalle3,Europe
+A family is having a barbecue in the park.,0,dalle3_family.jpg,dalle3_family.jpg,DE,de,0.3932,18-29,Other,Skilled Manual Trades,dalle3,halfmoon,dalle3,dalle3,Europe
+A family is having a barbecue in the park.,1,stablediffusion_family.jpg,stablediffusion_family.jpg,EG,en,0.2052,18-29,Female,Education,dalle3,stablediffusion,stablediffusion,stablediffusion,Africa
+A family is having a barbecue in the park.,1,stablediffusion_family.jpg,stablediffusion_family.jpg,EG,ar,0.2922,18-29,Male,Healthcare,dalle3,stablediffusion,stablediffusion,stablediffusion,Africa
+A family is having a barbecue in the park.,1,stablediffusion_family.jpg,stablediffusion_family.jpg,IN,en,0.1589,18-29,Female,Unemployed or Student,dalle3,stablediffusion,stablediffusion,stablediffusion,Asia
+A family is having a barbecue in the park.,1,stablediffusion_family.jpg,stablediffusion_family.jpg,RU,ru,0.6807,50-64,Male,Technology,dalle3,stablediffusion,stablediffusion,stablediffusion,Europe
+A family is having a barbecue in the park.,1,stablediffusion_family.jpg,dalle3_family.jpg,RU,ru,0.4832,0-17,Other,Unemployed or Student,dalle3,stablediffusion,stablediffusion,dalle3,Europe
+A family is having a barbecue in the park.,0,halfmoon_family.jpg,halfmoon_family.jpg,EG,ar,0.2548,50-64,Female,Other Employment,halfmoon,stablediffusion,halfmoon,halfmoon,Africa
+A family is having a barbecue in the park.,0,halfmoon_family.jpg,stablediffusion_family.jpg,PH,en,0.322,30-39,Other,Other Employment,halfmoon,stablediffusion,halfmoon,stablediffusion,Asia
+A family is having a barbecue in the park.,0,halfmoon_family.jpg,halfmoon_family.jpg,IN,en,0.3211,Unknown,Unknown,Unknown,halfmoon,stablediffusion,halfmoon,halfmoon,Asia
+A family is having a barbecue in the park.,0,halfmoon_family.jpg,halfmoon_family.jpg,KE,en,0.4421,18-29,Female,Unknown,halfmoon,stablediffusion,halfmoon,halfmoon,Africa
+A family is having a barbecue in the park.,0,halfmoon_family.jpg,halfmoon_family.jpg,TR,tr,0.0415,Unknown,Unknown,Unknown,halfmoon,stablediffusion,halfmoon,halfmoon,Asia
+A family is having a barbecue in the park.,0,halfmoon_family.jpg,halfmoon_family.jpg,DZ,en,0.228,50-64,Female,Education,halfmoon,stablediffusion,halfmoon,halfmoon,Africa
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,dalle3_baseball.jpg,MY,zh,0.6552,18-29,Male,Other Employment,4o,dalle3,4o,dalle3,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,4o_baseball.jpg,DE,de,0.6962,Unknown,Unknown,Unknown,4o,dalle3,4o,4o,Europe
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,dalle3_baseball.jpg,TR,tr,0.0415,Unknown,Unknown,Unknown,4o,dalle3,4o,dalle3,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,dalle3_baseball.jpg,CD,fr,0.1183,18-29,Female,Other Employment,4o,dalle3,4o,dalle3,Africa
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,4o_baseball.jpg,EG,ar,0.3232,50-64,Female,Education,4o,dalle3,4o,4o,Africa
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,4o_baseball.jpg,RS,sr,0.3717,40-49,Female,Unemployed or Student,4o,dalle3,4o,4o,Europe
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,4o_baseball.jpg,DE,de,0.6193,Unknown,Unknown,Unknown,4o,halfmoon,4o,4o,Europe
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,4o_baseball.jpg,RU,ru,0.6593,65+,Other,Unknown,4o,halfmoon,4o,4o,Europe
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,4o_baseball.jpg,KE,en,0.4421,18-29,Female,Unknown,4o,halfmoon,4o,4o,Africa
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,4o_baseball.jpg,ID,en,0.7226,Unknown,Unknown,Unknown,4o,halfmoon,4o,4o,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,4o_baseball.jpg,RU,ru,0.4594,Unknown,Unknown,Unknown,4o,halfmoon,4o,4o,Europe
+A baseball player in a blue and white uniform is next to a player in black and white.,1,stablediffusion_baseball.jpg,4o_baseball.jpg,LY,ar,0.3,Unknown,Unknown,Unknown,4o,stablediffusion,stablediffusion,4o,Africa
+A baseball player in a blue and white uniform is next to a player in black and white.,1,stablediffusion_baseball.jpg,stablediffusion_baseball.jpg,IN,en,0.3631,Unknown,Unknown,Unknown,4o,stablediffusion,stablediffusion,stablediffusion,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,1,stablediffusion_baseball.jpg,4o_baseball.jpg,DZ,ar,0.6122,Unknown,Unknown,Unknown,4o,stablediffusion,stablediffusion,4o,Africa
+A baseball player in a blue and white uniform is next to a player in black and white.,1,stablediffusion_baseball.jpg,stablediffusion_baseball.jpg,IN,en,0.3135,50-64,Male,Unemployed or Student,4o,stablediffusion,stablediffusion,stablediffusion,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,1,stablediffusion_baseball.jpg,stablediffusion_baseball.jpg,RU,ru,0.3,Unknown,Unknown,Unknown,4o,stablediffusion,stablediffusion,stablediffusion,Europe
+A baseball player in a blue and white uniform is next to a player in black and white.,0,dalle3_baseball.jpg,dalle3_baseball.jpg,RU,ru,0.4707,30-39,Other,Skilled Manual Trades,dalle3,halfmoon,dalle3,dalle3,Europe
+A baseball player in a blue and white uniform is next to a player in black and white.,0,dalle3_baseball.jpg,dalle3_baseball.jpg,EG,en,0.3864,Unknown,Unknown,Unknown,dalle3,halfmoon,dalle3,dalle3,Africa
+A baseball player in a blue and white uniform is next to a player in black and white.,0,dalle3_baseball.jpg,dalle3_baseball.jpg,EG,en,0.2052,18-29,Female,Education,dalle3,halfmoon,dalle3,dalle3,Africa
+A baseball player in a blue and white uniform is next to a player in black and white.,0,dalle3_baseball.jpg,halfmoon_baseball.jpg,TR,tr,0.4201,0-17,Female,Other Employment,dalle3,halfmoon,dalle3,halfmoon,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,0,dalle3_baseball.jpg,halfmoon_baseball.jpg,ES,es,0.2394,Unknown,Unknown,Unknown,dalle3,halfmoon,dalle3,halfmoon,Europe
+A baseball player in a blue and white uniform is next to a player in black and white.,0,dalle3_baseball.jpg,dalle3_baseball.jpg,ES,es,0.6997,18-29,Female,Unknown,dalle3,stablediffusion,dalle3,dalle3,Europe
+A baseball player in a blue and white uniform is next to a player in black and white.,0,dalle3_baseball.jpg,stablediffusion_baseball.jpg,IN,en,0.272,0-17,Male,Other Employment,dalle3,stablediffusion,dalle3,stablediffusion,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,0,dalle3_baseball.jpg,dalle3_baseball.jpg,IN,en,0.4017,Unknown,Unknown,Unknown,dalle3,stablediffusion,dalle3,dalle3,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,0,dalle3_baseball.jpg,dalle3_baseball.jpg,RU,ru,0.6807,50-64,Male,Technology,dalle3,stablediffusion,dalle3,dalle3,Europe
+A baseball player in a blue and white uniform is next to a player in black and white.,0,dalle3_baseball.jpg,dalle3_baseball.jpg,IN,en,0.4625,Unknown,Unknown,Unknown,dalle3,stablediffusion,dalle3,dalle3,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,0,halfmoon_baseball.jpg,stablediffusion_baseball.jpg,RS,sr,0.3711,65+,Female,Creative & Media,halfmoon,stablediffusion,halfmoon,stablediffusion,Europe
+A baseball player in a blue and white uniform is next to a player in black and white.,0,halfmoon_baseball.jpg,halfmoon_baseball.jpg,DZ,en,0.65,Unknown,Unknown,Unknown,halfmoon,stablediffusion,halfmoon,halfmoon,Africa
+A baseball player in a blue and white uniform is next to a player in black and white.,0,halfmoon_baseball.jpg,stablediffusion_baseball.jpg,RU,ru,0.3455,Unknown,Unknown,Unknown,halfmoon,stablediffusion,halfmoon,stablediffusion,Europe
+A baseball player in a blue and white uniform is next to a player in black and white.,0,halfmoon_baseball.jpg,halfmoon_baseball.jpg,DZ,en,0.6579,Unknown,Unknown,Unknown,halfmoon,stablediffusion,halfmoon,halfmoon,Africa
+A baseball player in a blue and white uniform is next to a player in black and white.,0,halfmoon_baseball.jpg,stablediffusion_baseball.jpg,IT,it,0.1419,50-64,Other,Other Education Professional,halfmoon,stablediffusion,halfmoon,stablediffusion,Europe
+A bathroom with green tile and a red shower curtain.,1,dalle3_bathroom.jpg,4o_bathroom.jpg,IN,en,0.2334,18-29,Female,Unknown,4o,dalle3,dalle3,4o,Asia
+A bathroom with green tile and a red shower curtain.,1,dalle3_bathroom.jpg,dalle3_bathroom.jpg,IT,it,0.1419,50-64,Other,Other Education Professional,4o,dalle3,dalle3,dalle3,Europe
+A bathroom with green tile and a red shower curtain.,1,dalle3_bathroom.jpg,dalle3_bathroom.jpg,EG,en,0.3864,Unknown,Unknown,Unknown,4o,dalle3,dalle3,dalle3,Africa
+A bathroom with green tile and a red shower curtain.,1,dalle3_bathroom.jpg,dalle3_bathroom.jpg,EG,en,0.42,18-29,Male,Unknown,4o,dalle3,dalle3,dalle3,Africa
+A bathroom with green tile and a red shower curtain.,1,dalle3_bathroom.jpg,4o_bathroom.jpg,IN,en,0.1712,Unknown,Unknown,Unknown,4o,dalle3,dalle3,4o,Asia
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,4o_bathroom.jpg,RU,ru,0.4505,Unknown,Unknown,Unknown,4o,halfmoon,4o,4o,Europe
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,4o_bathroom.jpg,IT,it,0.3297,30-39,Male,Healthcare,4o,halfmoon,4o,4o,Europe
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,halfmoon_bathroom.jpg,TR,tr,0.3612,65+,Other,Other Employment,4o,halfmoon,4o,halfmoon,Asia
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,halfmoon_bathroom.jpg,IN,en,0.0015,Unknown,Unknown,Unknown,4o,halfmoon,4o,halfmoon,Asia
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,4o_bathroom.jpg,IN,en,0.5249,0-17,Male,Healthcare,4o,halfmoon,4o,4o,Asia
+A bathroom with green tile and a red shower curtain.,1,stablediffusion_bathroom.jpg,4o_bathroom.jpg,PK,en,0.345,Unknown,Unknown,Unknown,4o,stablediffusion,stablediffusion,4o,Asia
+A bathroom with green tile and a red shower curtain.,1,stablediffusion_bathroom.jpg,stablediffusion_bathroom.jpg,TZ,ar,0.6317,18-29,Male,Unknown,4o,stablediffusion,stablediffusion,stablediffusion,Africa
+A bathroom with green tile and a red shower curtain.,1,stablediffusion_bathroom.jpg,stablediffusion_bathroom.jpg,PH,en,0.2396,30-39,Male,Skilled Manual Trades,4o,stablediffusion,stablediffusion,stablediffusion,Asia
+A bathroom with green tile and a red shower curtain.,1,stablediffusion_bathroom.jpg,4o_bathroom.jpg,IT,it,0.1419,50-64,Other,Other Education Professional,4o,stablediffusion,stablediffusion,4o,Europe
+A bathroom with green tile and a red shower curtain.,1,stablediffusion_bathroom.jpg,4o_bathroom.jpg,DZ,en,0.65,Unknown,Unknown,Unknown,4o,stablediffusion,stablediffusion,4o,Africa
+A bathroom with green tile and a red shower curtain.,1,stablediffusion_bathroom.jpg,stablediffusion_bathroom.jpg,IN,en,0.6172,Unknown,Unknown,Unknown,4o,stablediffusion,stablediffusion,stablediffusion,Asia
+A bathroom with green tile and a red shower curtain.,1,halfmoon_bathroom.jpg,halfmoon_bathroom.jpg,FR,fr,0.5505,Unknown,Unknown,Unknown,dalle3,halfmoon,halfmoon,halfmoon,Europe
+A bathroom with green tile and a red shower curtain.,1,halfmoon_bathroom.jpg,dalle3_bathroom.jpg,RU,ru,0.4707,30-39,Other,Skilled Manual Trades,dalle3,halfmoon,halfmoon,dalle3,Europe
+A bathroom with green tile and a red shower curtain.,1,halfmoon_bathroom.jpg,dalle3_bathroom.jpg,RS,sr,0.0794,0-17,Male,Other Employment,dalle3,halfmoon,halfmoon,dalle3,Europe
+A bathroom with green tile and a red shower curtain.,1,halfmoon_bathroom.jpg,halfmoon_bathroom.jpg,DZ,fr,0.0,65+,Female,Other Employment,dalle3,halfmoon,halfmoon,halfmoon,Africa
+A bathroom with green tile and a red shower curtain.,1,halfmoon_bathroom.jpg,halfmoon_bathroom.jpg,DZ,en,0.6635,Unknown,Unknown,Unknown,dalle3,halfmoon,halfmoon,halfmoon,Africa
+A bathroom with green tile and a red shower curtain.,0,dalle3_bathroom.jpg,stablediffusion_bathroom.jpg,IT,it,0.5903,30-39,Other,Other Employment,dalle3,stablediffusion,dalle3,stablediffusion,Europe
+A bathroom with green tile and a red shower curtain.,0,dalle3_bathroom.jpg,dalle3_bathroom.jpg,TZ,en,0.3,Unknown,Unknown,Unknown,dalle3,stablediffusion,dalle3,dalle3,Africa
+A bathroom with green tile and a red shower curtain.,0,dalle3_bathroom.jpg,stablediffusion_bathroom.jpg,IN,en,0.4446,18-29,Other,Unemployed or Student,dalle3,stablediffusion,dalle3,stablediffusion,Asia
+A bathroom with green tile and a red shower curtain.,0,dalle3_bathroom.jpg,dalle3_bathroom.jpg,BR,pt,0.3849,18-29,Female,Unemployed or Student,dalle3,stablediffusion,dalle3,dalle3,South America
+A bathroom with green tile and a red shower curtain.,0,dalle3_bathroom.jpg,dalle3_bathroom.jpg,ID,en,0.7226,Unknown,Unknown,Unknown,dalle3,stablediffusion,dalle3,dalle3,Asia
+A bathroom with green tile and a red shower curtain.,1,stablediffusion_bathroom.jpg,stablediffusion_bathroom.jpg,IN,en,0.5936,Unknown,Unknown,Unknown,halfmoon,stablediffusion,stablediffusion,stablediffusion,Asia
+A bathroom with green tile and a red shower curtain.,1,stablediffusion_bathroom.jpg,stablediffusion_bathroom.jpg,IN,en,0.2353,Unknown,Unknown,Unknown,halfmoon,stablediffusion,stablediffusion,stablediffusion,Asia
+A bathroom with green tile and a red shower curtain.,1,stablediffusion_bathroom.jpg,stablediffusion_bathroom.jpg,IN,en,0.5767,30-39,Female,Other Employment,halfmoon,stablediffusion,stablediffusion,stablediffusion,Asia
+A bathroom with green tile and a red shower curtain.,1,stablediffusion_bathroom.jpg,halfmoon_bathroom.jpg,DZ,en,0.6477,Unknown,Unknown,Unknown,halfmoon,stablediffusion,stablediffusion,halfmoon,Africa
+A bathroom with green tile and a red shower curtain.,1,stablediffusion_bathroom.jpg,stablediffusion_bathroom.jpg,IN,en,0.4157,Unknown,Unknown,Unknown,halfmoon,stablediffusion,stablediffusion,stablediffusion,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,1,dalle3_baseball.jpg,dalle3_baseball.jpg,IN,en,0.1862,0-17,Female,Other Creative & Media Professional,4o,dalle3,dalle3,dalle3,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,1,dalle3_baseball.jpg,dalle3_baseball.jpg,RS,sr,0.4644,50-64,Male,Technology,4o,dalle3,dalle3,dalle3,Europe
+A baseball player in a blue and white uniform is next to a player in black and white.,1,dalle3_baseball.jpg,4o_baseball.jpg,PH,en,0.3953,Unknown,Unknown,Unknown,4o,dalle3,dalle3,4o,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,1,dalle3_baseball.jpg,dalle3_baseball.jpg,MA,fr,0.5391,Unknown,Unknown,Unknown,4o,dalle3,dalle3,dalle3,Africa
+A baseball player in a blue and white uniform is next to a player in black and white.,1,dalle3_baseball.jpg,4o_baseball.jpg,IN,en,0.2912,50-64,Male,Unemployed or Student,4o,dalle3,dalle3,4o,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,4o_baseball.jpg,IN,en,0.3465,Unknown,Unknown,Unknown,4o,halfmoon,4o,4o,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,4o_baseball.jpg,IT,it,0.3583,30-39,Male,Healthcare,4o,halfmoon,4o,4o,Europe
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,halfmoon_baseball.jpg,AU,en,0.6199,50-64,Male,Other Employment,4o,halfmoon,4o,halfmoon,Oceania
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,4o_baseball.jpg,IN,en,0.2701,40-49,Female,Unemployed or Student,4o,halfmoon,4o,4o,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,4o_baseball.jpg,BR,pt,0.3849,18-29,Female,Unemployed or Student,4o,halfmoon,4o,4o,South America
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,4o_baseball.jpg,EG,ar,0.4047,30-39,Female,Healthcare,4o,stablediffusion,4o,4o,Africa
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,4o_baseball.jpg,TR,tr,0.2212,18-29,Female,Unemployed or Student,4o,stablediffusion,4o,4o,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,4o_baseball.jpg,MZ,pt,0.5982,50-64,Other,Creative & Media,4o,stablediffusion,4o,4o,Africa
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,stablediffusion_baseball.jpg,PH,en,0.4312,Unknown,Unknown,Unknown,4o,stablediffusion,4o,stablediffusion,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,4o_baseball.jpg,UA,uk,0.3,Unknown,Unknown,Unknown,4o,stablediffusion,4o,4o,Europe
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,4o_baseball.jpg,PH,en,0.5819,65+,Female,Unemployed or Student,4o,stablediffusion,4o,4o,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,0,dalle3_baseball.jpg,dalle3_baseball.jpg,IN,en,0.3288,50-64,Male,Unemployed or Student,dalle3,halfmoon,dalle3,dalle3,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,0,dalle3_baseball.jpg,halfmoon_baseball.jpg,IN,en,0.272,0-17,Male,Other Employment,dalle3,halfmoon,dalle3,halfmoon,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,0,dalle3_baseball.jpg,dalle3_baseball.jpg,BD,en,0.3266,Unknown,Unknown,Unknown,dalle3,halfmoon,dalle3,dalle3,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,0,dalle3_baseball.jpg,dalle3_baseball.jpg,EG,ar,0.3232,50-64,Female,Education,dalle3,halfmoon,dalle3,dalle3,Africa
+A baseball player in a blue and white uniform is next to a player in black and white.,0,dalle3_baseball.jpg,dalle3_baseball.jpg,PH,en,0.3255,0-17,Female,Technology,dalle3,halfmoon,dalle3,dalle3,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,1,stablediffusion_baseball.jpg,dalle3_baseball.jpg,IT,it,0.3583,30-39,Male,Healthcare,dalle3,stablediffusion,stablediffusion,dalle3,Europe
+A baseball player in a blue and white uniform is next to a player in black and white.,1,stablediffusion_baseball.jpg,stablediffusion_baseball.jpg,AU,en,0.6199,50-64,Male,Other Employment,dalle3,stablediffusion,stablediffusion,stablediffusion,Oceania
+A baseball player in a blue and white uniform is next to a player in black and white.,1,stablediffusion_baseball.jpg,stablediffusion_baseball.jpg,EG,en,0.42,18-29,Male,Unknown,dalle3,stablediffusion,stablediffusion,stablediffusion,Africa
+A baseball player in a blue and white uniform is next to a player in black and white.,1,stablediffusion_baseball.jpg,dalle3_baseball.jpg,IN,en,0.5249,0-17,Male,Healthcare,dalle3,stablediffusion,stablediffusion,dalle3,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,1,stablediffusion_baseball.jpg,stablediffusion_baseball.jpg,IN,en,0.6971,0-17,Male,Business & Finance,dalle3,stablediffusion,stablediffusion,stablediffusion,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,0,halfmoon_baseball.jpg,halfmoon_baseball.jpg,EG,ar,0.3726,0-17,Female,Unemployed or Student,halfmoon,stablediffusion,halfmoon,halfmoon,Africa
+A baseball player in a blue and white uniform is next to a player in black and white.,0,halfmoon_baseball.jpg,halfmoon_baseball.jpg,RU,ru,0.4505,Unknown,Unknown,Unknown,halfmoon,stablediffusion,halfmoon,halfmoon,Europe
+A baseball player in a blue and white uniform is next to a player in black and white.,0,halfmoon_baseball.jpg,halfmoon_baseball.jpg,EG,ar,0.186,0-17,Male,Unknown,halfmoon,stablediffusion,halfmoon,halfmoon,Africa
+A baseball player in a blue and white uniform is next to a player in black and white.,0,halfmoon_baseball.jpg,halfmoon_baseball.jpg,RS,en,0.6474,30-39,Female,Other Employment,halfmoon,stablediffusion,halfmoon,halfmoon,Europe
+A baseball player in a blue and white uniform is next to a player in black and white.,0,halfmoon_baseball.jpg,stablediffusion_baseball.jpg,EG,ar,0.4557,30-39,Female,Technology,halfmoon,stablediffusion,halfmoon,stablediffusion,Africa
+A baseball player in a blue and white uniform is next to a player in black and white.,0,halfmoon_baseball.jpg,halfmoon_baseball.jpg,IN,en,0.7491,Unknown,Unknown,Unknown,halfmoon,stablediffusion,halfmoon,halfmoon,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,4o_baseball.jpg,EG,ar,0.3726,0-17,Female,Unemployed or Student,4o,dalle3,4o,4o,Africa
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,dalle3_baseball.jpg,RU,ru,0.3455,Unknown,Unknown,Unknown,4o,dalle3,4o,dalle3,Europe
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,4o_baseball.jpg,EG,ar,0.3901,40-49,Male,Education,4o,dalle3,4o,4o,Africa
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,4o_baseball.jpg,DZ,en,0.6654,Unknown,Unknown,Unknown,4o,dalle3,4o,4o,Africa
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,4o_baseball.jpg,EG,en,0.3114,65+,Other,Unemployed or Student,4o,dalle3,4o,4o,Africa
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,4o_baseball.jpg,RU,ru,0.3,Unknown,Unknown,Unknown,4o,halfmoon,4o,4o,Europe
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,4o_baseball.jpg,DE,de,0.4484,65+,Male,Technology,4o,halfmoon,4o,4o,Europe
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,4o_baseball.jpg,IN,en,0.3,Unknown,Unknown,Unknown,4o,halfmoon,4o,4o,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,4o_baseball.jpg,DE,de,0.186,Unknown,Unknown,Unknown,4o,halfmoon,4o,4o,Europe
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,4o_baseball.jpg,AT,de,0.7959,50-64,Female,Skilled Manual Trades,4o,halfmoon,4o,4o,Europe
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,stablediffusion_baseball.jpg,IN,hi,0.0,30-39,Female,Skilled Manual Trades,4o,stablediffusion,4o,stablediffusion,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,stablediffusion_baseball.jpg,PH,en,0.2396,30-39,Male,Skilled Manual Trades,4o,stablediffusion,4o,stablediffusion,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,4o_baseball.jpg,IN,en,0.0926,18-29,Female,Unemployed or Student,4o,stablediffusion,4o,4o,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,4o_baseball.jpg,VN,vi,0.5609,Unknown,Unknown,Unknown,4o,stablediffusion,4o,4o,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,4o_baseball.jpg,DZ,fr,0.3,Unknown,Unknown,Unknown,4o,stablediffusion,4o,4o,Africa
+A baseball player in a blue and white uniform is next to a player in black and white.,1,halfmoon_baseball.jpg,halfmoon_baseball.jpg,ES,es,0.6753,18-29,Female,Unknown,dalle3,halfmoon,halfmoon,halfmoon,Europe
+A baseball player in a blue and white uniform is next to a player in black and white.,1,halfmoon_baseball.jpg,dalle3_baseball.jpg,RS,sr,0.3548,30-39,Male,Other Skilled Manual Trade Professional,dalle3,halfmoon,halfmoon,dalle3,Europe
+A baseball player in a blue and white uniform is next to a player in black and white.,1,halfmoon_baseball.jpg,halfmoon_baseball.jpg,IN,en,0.0,Unknown,Unknown,Unknown,dalle3,halfmoon,halfmoon,halfmoon,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,1,halfmoon_baseball.jpg,halfmoon_baseball.jpg,RS,en,0.6474,30-39,Female,Other Employment,dalle3,halfmoon,halfmoon,halfmoon,Europe
+A baseball player in a blue and white uniform is next to a player in black and white.,1,halfmoon_baseball.jpg,halfmoon_baseball.jpg,IN,en,0.5203,30-39,Female,Unemployed or Student,dalle3,halfmoon,halfmoon,halfmoon,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,0,dalle3_baseball.jpg,dalle3_baseball.jpg,EG,ar,0.2606,40-49,Female,Unemployed or Student,dalle3,stablediffusion,dalle3,dalle3,Africa
+A baseball player in a blue and white uniform is next to a player in black and white.,0,dalle3_baseball.jpg,dalle3_baseball.jpg,ID,id,0.4469,Unknown,Unknown,Unknown,dalle3,stablediffusion,dalle3,dalle3,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,0,dalle3_baseball.jpg,stablediffusion_baseball.jpg,DZ,en,0.228,50-64,Female,Education,dalle3,stablediffusion,dalle3,stablediffusion,Africa
+A baseball player in a blue and white uniform is next to a player in black and white.,0,dalle3_baseball.jpg,stablediffusion_baseball.jpg,unknown,EN,0.3,Unknown,Unknown,Unknown,dalle3,stablediffusion,dalle3,stablediffusion,Unknown
+A baseball player in a blue and white uniform is next to a player in black and white.,0,dalle3_baseball.jpg,dalle3_baseball.jpg,MY,en,0.5677,Unknown,Male,Unknown,dalle3,stablediffusion,dalle3,dalle3,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,0,halfmoon_baseball.jpg,stablediffusion_baseball.jpg,RS,sr,0.3711,65+,Female,Creative & Media,halfmoon,stablediffusion,halfmoon,stablediffusion,Europe
+A baseball player in a blue and white uniform is next to a player in black and white.,0,halfmoon_baseball.jpg,halfmoon_baseball.jpg,DE,de,0.3932,18-29,Other,Skilled Manual Trades,halfmoon,stablediffusion,halfmoon,halfmoon,Europe
+A baseball player in a blue and white uniform is next to a player in black and white.,0,halfmoon_baseball.jpg,halfmoon_baseball.jpg,BR,pt,0.4375,Unknown,Unknown,Unknown,halfmoon,stablediffusion,halfmoon,halfmoon,South America
+A baseball player in a blue and white uniform is next to a player in black and white.,0,halfmoon_baseball.jpg,halfmoon_baseball.jpg,BR,pt,0.4375,Unknown,Unknown,Unknown,halfmoon,stablediffusion,halfmoon,halfmoon,South America
+A baseball player in a blue and white uniform is next to a player in black and white.,0,halfmoon_baseball.jpg,halfmoon_baseball.jpg,TR,tr,0.0415,Unknown,Unknown,Unknown,halfmoon,stablediffusion,halfmoon,halfmoon,Asia
+A blue bunny in a pink water toilet bowl.,1,dalle3_bunny.jpg,4o_bunny.jpg,IN,en,0.526,30-39,Female,Unemployed or Student,4o,dalle3,dalle3,4o,Asia
+A blue bunny in a pink water toilet bowl.,1,dalle3_bunny.jpg,4o_bunny.jpg,EG,ar,0.3826,50-64,Female,Education,4o,dalle3,dalle3,4o,Africa
+A blue bunny in a pink water toilet bowl.,1,dalle3_bunny.jpg,dalle3_bunny.jpg,VN,vi,0.5609,Unknown,Unknown,Unknown,4o,dalle3,dalle3,dalle3,Asia
+A blue bunny in a pink water toilet bowl.,1,dalle3_bunny.jpg,dalle3_bunny.jpg,IN,en,0.0005,30-39,Female,Unknown,4o,dalle3,dalle3,dalle3,Asia
+A blue bunny in a pink water toilet bowl.,1,dalle3_bunny.jpg,dalle3_bunny.jpg,RS,sr,0.7039,50-64,Male,Education,4o,dalle3,dalle3,dalle3,Europe
+A blue bunny in a pink water toilet bowl.,1,dalle3_bunny.jpg,dalle3_bunny.jpg,EG,en,0.2177,30-39,Male,Creative & Media,4o,dalle3,dalle3,dalle3,Africa
+A blue bunny in a pink water toilet bowl.,1,dalle3_bunny.jpg,4o_bunny.jpg,IN,en,0.0015,Unknown,Unknown,Unknown,4o,dalle3,dalle3,4o,Asia
+A blue bunny in a pink water toilet bowl.,1,halfmoon_bunny.jpg,4o_bunny.jpg,EG,ar,0.3901,40-49,Male,Education,4o,halfmoon,halfmoon,4o,Africa
+A blue bunny in a pink water toilet bowl.,1,halfmoon_bunny.jpg,halfmoon_bunny.jpg,IN,en,0.4545,18-29,Other,Unemployed or Student,4o,halfmoon,halfmoon,halfmoon,Asia
+A blue bunny in a pink water toilet bowl.,1,halfmoon_bunny.jpg,halfmoon_bunny.jpg,RU,ru,0.4707,30-39,Other,Skilled Manual Trades,4o,halfmoon,halfmoon,halfmoon,Europe
+A blue bunny in a pink water toilet bowl.,1,halfmoon_bunny.jpg,halfmoon_bunny.jpg,TR,tr,0.4201,0-17,Female,Other Employment,4o,halfmoon,halfmoon,halfmoon,Asia
+A blue bunny in a pink water toilet bowl.,1,halfmoon_bunny.jpg,4o_bunny.jpg,BD,en,0.5233,Unknown,Unknown,Unknown,4o,halfmoon,halfmoon,4o,Asia
+A blue bunny in a pink water toilet bowl.,0,4o_bunny.jpg,stablediffusion_bunny.jpg,PH,en,0.3255,0-17,Female,Technology,4o,stablediffusion,4o,stablediffusion,Asia
+A blue bunny in a pink water toilet bowl.,0,4o_bunny.jpg,4o_bunny.jpg,TZ,ar,0.6335,18-29,Male,Unknown,4o,stablediffusion,4o,4o,Africa
+A blue bunny in a pink water toilet bowl.,0,4o_bunny.jpg,stablediffusion_bunny.jpg,IN,en,0.1862,0-17,Female,Other Creative & Media Professional,4o,stablediffusion,4o,stablediffusion,Asia
+A blue bunny in a pink water toilet bowl.,0,4o_bunny.jpg,stablediffusion_bunny.jpg,IN,en,0.4157,Unknown,Unknown,Unknown,4o,stablediffusion,4o,stablediffusion,Asia
+A blue bunny in a pink water toilet bowl.,0,4o_bunny.jpg,4o_bunny.jpg,DZ,en,0.6477,Unknown,Unknown,Unknown,4o,stablediffusion,4o,4o,Africa
+A blue bunny in a pink water toilet bowl.,0,dalle3_bunny.jpg,dalle3_bunny.jpg,ID,id,0.2625,Unknown,Unknown,Unknown,dalle3,halfmoon,dalle3,dalle3,Asia
+A blue bunny in a pink water toilet bowl.,0,dalle3_bunny.jpg,dalle3_bunny.jpg,VN,vi,0.0541,Unknown,Unknown,Unknown,dalle3,halfmoon,dalle3,dalle3,Asia
+A blue bunny in a pink water toilet bowl.,0,dalle3_bunny.jpg,dalle3_bunny.jpg,DZ,ar,0.6122,Unknown,Unknown,Unknown,dalle3,halfmoon,dalle3,dalle3,Africa
+A blue bunny in a pink water toilet bowl.,0,dalle3_bunny.jpg,dalle3_bunny.jpg,AZ,az,0.1065,Unknown,Unknown,Unknown,dalle3,halfmoon,dalle3,dalle3,Asia
+A blue bunny in a pink water toilet bowl.,0,dalle3_bunny.jpg,dalle3_bunny.jpg,TR,tr,0.2712,30-39,Female,Unemployed or Student,dalle3,halfmoon,dalle3,dalle3,Asia
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,stablediffusion_bunny.jpg,PK,en,0.345,Unknown,Unknown,Unknown,dalle3,stablediffusion,stablediffusion,stablediffusion,Asia
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,stablediffusion_bunny.jpg,IN,en,0.2334,18-29,Female,Unknown,dalle3,stablediffusion,stablediffusion,stablediffusion,Asia
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,stablediffusion_bunny.jpg,IN,en,0.6971,0-17,Male,Business & Finance,dalle3,stablediffusion,stablediffusion,stablediffusion,Asia
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,stablediffusion_bunny.jpg,EG,ar,0.2371,Unknown,Unknown,Unknown,dalle3,stablediffusion,stablediffusion,stablediffusion,Africa
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,stablediffusion_bunny.jpg,unknown,EN,0.3,Unknown,Unknown,Unknown,dalle3,stablediffusion,stablediffusion,stablediffusion,Unknown
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,dalle3_bunny.jpg,DZ,ar,0.4483,0-17,Male,Technology,dalle3,stablediffusion,stablediffusion,dalle3,Africa
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,stablediffusion_bunny.jpg,IN,en,0.3085,0-17,Male,Unemployed or Student,halfmoon,stablediffusion,stablediffusion,stablediffusion,Asia
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,stablediffusion_bunny.jpg,LY,ar,0.2042,40-49,Female,Education,halfmoon,stablediffusion,stablediffusion,stablediffusion,Africa
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,halfmoon_bunny.jpg,DZ,fr,0.0,65+,Female,Other Employment,halfmoon,stablediffusion,stablediffusion,halfmoon,Africa
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,stablediffusion_bunny.jpg,LY,ar,0.3102,40-49,Male,Skilled Manual Trades,halfmoon,stablediffusion,stablediffusion,stablediffusion,Africa
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,stablediffusion_bunny.jpg,EG,ar,0.2371,Unknown,Unknown,Unknown,halfmoon,stablediffusion,stablediffusion,stablediffusion,Africa
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,halfmoon_bunny.jpg,TR,tr,0.4201,0-17,Female,Other Employment,halfmoon,stablediffusion,stablediffusion,halfmoon,Asia
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,4o_bathroom.jpg,TR,tr,0.2689,18-29,Male,Other Employment,4o,dalle3,4o,4o,Asia
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,4o_bathroom.jpg,AU,en,0.6199,50-64,Male,Other Employment,4o,dalle3,4o,4o,Oceania
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,dalle3_bathroom.jpg,RU,ru,0.6807,50-64,Male,Technology,4o,dalle3,4o,dalle3,Europe
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,4o_bathroom.jpg,RU,ru,0.6722,65+,Other,Unknown,4o,dalle3,4o,4o,Europe
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,4o_bathroom.jpg,DZ,en,0.6635,Unknown,Unknown,Unknown,4o,dalle3,4o,4o,Africa
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,halfmoon_bathroom.jpg,TZ,ar,0.6317,18-29,Male,Unknown,4o,halfmoon,4o,halfmoon,Africa
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,4o_bathroom.jpg,IN,en,0.001,0-17,Other,Unknown,4o,halfmoon,4o,4o,Asia
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,4o_bathroom.jpg,LY,ar,0.4923,40-49,Other,Other Employment,4o,halfmoon,4o,4o,Africa
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,4o_bathroom.jpg,IN,en,0.2328,0-17,Female,Other Creative & Media Professional,4o,halfmoon,4o,4o,Asia
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,4o_bathroom.jpg,EG,ar,0.4557,30-39,Female,Technology,4o,halfmoon,4o,4o,Africa
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,halfmoon_bathroom.jpg,DZ,ar,0.4483,0-17,Male,Technology,4o,halfmoon,4o,halfmoon,Africa
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,4o_bathroom.jpg,DZ,en,0.6579,Unknown,Unknown,Unknown,4o,stablediffusion,4o,4o,Africa
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,4o_bathroom.jpg,IN,en,0.5594,Unknown,Unknown,Unknown,4o,stablediffusion,4o,4o,Asia
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,4o_bathroom.jpg,PL,pl,0.1287,40-49,Other,Skilled Manual Trades,4o,stablediffusion,4o,4o,Europe
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,4o_bathroom.jpg,DE,de,0.3932,18-29,Other,Skilled Manual Trades,4o,stablediffusion,4o,4o,Europe
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,4o_bathroom.jpg,IN,en,0.7491,Unknown,Unknown,Unknown,4o,stablediffusion,4o,4o,Asia
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,4o_bathroom.jpg,BD,en,0.5233,Unknown,Unknown,Unknown,4o,stablediffusion,4o,4o,Asia
+A bathroom with green tile and a red shower curtain.,1,halfmoon_bathroom.jpg,dalle3_bathroom.jpg,IN,en,0.4129,18-29,Male,Education,dalle3,halfmoon,halfmoon,dalle3,Asia
+A bathroom with green tile and a red shower curtain.,1,halfmoon_bathroom.jpg,halfmoon_bathroom.jpg,BO,es,0.3385,0-17,Other,Other Employment,dalle3,halfmoon,halfmoon,halfmoon,South America
+A bathroom with green tile and a red shower curtain.,1,halfmoon_bathroom.jpg,halfmoon_bathroom.jpg,DE,de,0.4484,65+,Male,Technology,dalle3,halfmoon,halfmoon,halfmoon,Europe
+A bathroom with green tile and a red shower curtain.,1,halfmoon_bathroom.jpg,halfmoon_bathroom.jpg,PH,en,0.3953,Unknown,Unknown,Unknown,dalle3,halfmoon,halfmoon,halfmoon,Asia
+A bathroom with green tile and a red shower curtain.,1,halfmoon_bathroom.jpg,halfmoon_bathroom.jpg,TR,tr,0.2434,18-29,Female,Other Employment,dalle3,halfmoon,halfmoon,halfmoon,Asia
+A bathroom with green tile and a red shower curtain.,1,halfmoon_bathroom.jpg,halfmoon_bathroom.jpg,BO,es,0.336,Unknown,Unknown,Unknown,dalle3,halfmoon,halfmoon,halfmoon,South America
+A bathroom with green tile and a red shower curtain.,0,dalle3_bathroom.jpg,dalle3_bathroom.jpg,TR,tr,0.2784,0-17,Female,Unknown,dalle3,stablediffusion,dalle3,dalle3,Asia
+A bathroom with green tile and a red shower curtain.,0,dalle3_bathroom.jpg,dalle3_bathroom.jpg,BR,pt,0.5426,Unknown,Unknown,Unknown,dalle3,stablediffusion,dalle3,dalle3,South America
+A bathroom with green tile and a red shower curtain.,0,dalle3_bathroom.jpg,stablediffusion_bathroom.jpg,IN,en,0.5679,Unknown,Unknown,Unknown,dalle3,stablediffusion,dalle3,stablediffusion,Asia
+A bathroom with green tile and a red shower curtain.,0,dalle3_bathroom.jpg,dalle3_bathroom.jpg,IN,hi,0.3132,30-39,Female,Unemployed or Student,dalle3,stablediffusion,dalle3,dalle3,Asia
+A bathroom with green tile and a red shower curtain.,0,dalle3_bathroom.jpg,dalle3_bathroom.jpg,PH,en,0.322,30-39,Other,Other Employment,dalle3,stablediffusion,dalle3,dalle3,Asia
+A bathroom with green tile and a red shower curtain.,0,dalle3_bathroom.jpg,dalle3_bathroom.jpg,IN,en,0.1467,40-49,Other,Technology,dalle3,stablediffusion,dalle3,dalle3,Asia
+A bathroom with green tile and a red shower curtain.,1,stablediffusion_bathroom.jpg,stablediffusion_bathroom.jpg,IN,en,0.2816,50-64,Male,Healthcare,halfmoon,stablediffusion,stablediffusion,stablediffusion,Asia
+A bathroom with green tile and a red shower curtain.,1,stablediffusion_bathroom.jpg,stablediffusion_bathroom.jpg,RU,ru,0.4505,Unknown,Unknown,Unknown,halfmoon,stablediffusion,stablediffusion,stablediffusion,Europe
+A bathroom with green tile and a red shower curtain.,1,stablediffusion_bathroom.jpg,stablediffusion_bathroom.jpg,LY,ar,0.3,Unknown,Unknown,Unknown,halfmoon,stablediffusion,stablediffusion,stablediffusion,Africa
+A bathroom with green tile and a red shower curtain.,1,stablediffusion_bathroom.jpg,stablediffusion_bathroom.jpg,IT,it,0.3297,30-39,Male,Healthcare,halfmoon,stablediffusion,stablediffusion,stablediffusion,Europe
+A bathroom with green tile and a red shower curtain.,1,stablediffusion_bathroom.jpg,stablediffusion_bathroom.jpg,IN,en,0.4017,18-29,Other,Education,halfmoon,stablediffusion,stablediffusion,stablediffusion,Asia
+A family is having a barbecue in the park.,0,4o_family.jpg,dalle3_family.jpg,IN,en,0.3085,0-17,Male,Unemployed or Student,4o,dalle3,4o,dalle3,Asia
+A family is having a barbecue in the park.,0,4o_family.jpg,4o_family.jpg,IN,en,0.7334,Unknown,Unknown,Unknown,4o,dalle3,4o,4o,Asia
+A family is having a barbecue in the park.,0,4o_family.jpg,4o_family.jpg,IN,en,0.3,Unknown,Unknown,Unknown,4o,dalle3,4o,4o,Asia
+A family is having a barbecue in the park.,0,4o_family.jpg,dalle3_family.jpg,EG,ar,0.186,0-17,Male,Unknown,4o,dalle3,4o,dalle3,Africa
+A family is having a barbecue in the park.,0,4o_family.jpg,4o_family.jpg,RS,sr,0.0794,0-17,Male,Other Employment,4o,dalle3,4o,4o,Europe
+A family is having a barbecue in the park.,1,halfmoon_family.jpg,halfmoon_family.jpg,RU,ru,0.6593,65+,Other,Unknown,4o,halfmoon,halfmoon,halfmoon,Europe
+A family is having a barbecue in the park.,1,halfmoon_family.jpg,halfmoon_family.jpg,PH,en,0.3721,65+,Male,Technology,4o,halfmoon,halfmoon,halfmoon,Asia
+A family is having a barbecue in the park.,1,halfmoon_family.jpg,halfmoon_family.jpg,IN,en,0.3211,Unknown,Unknown,Unknown,4o,halfmoon,halfmoon,halfmoon,Asia
+A family is having a barbecue in the park.,1,halfmoon_family.jpg,4o_family.jpg,FR,fr,0.6712,Unknown,Unknown,Unknown,4o,halfmoon,halfmoon,4o,Europe
+A family is having a barbecue in the park.,1,halfmoon_family.jpg,4o_family.jpg,IN,en,0.1753,0-17,Female,Other Creative & Media Professional,4o,halfmoon,halfmoon,4o,Asia
+A family is having a barbecue in the park.,1,stablediffusion_family.jpg,4o_family.jpg,IN,hi,0.0,30-39,Female,Skilled Manual Trades,4o,stablediffusion,stablediffusion,4o,Asia
+A family is having a barbecue in the park.,1,stablediffusion_family.jpg,stablediffusion_family.jpg,IN,en,0.3783,18-29,Other,Skilled Manual Trades,4o,stablediffusion,stablediffusion,stablediffusion,Asia
+A family is having a barbecue in the park.,1,stablediffusion_family.jpg,stablediffusion_family.jpg,EG,en,0.3114,65+,Other,Unemployed or Student,4o,stablediffusion,stablediffusion,stablediffusion,Africa
+A family is having a barbecue in the park.,1,stablediffusion_family.jpg,stablediffusion_family.jpg,MY,zh,0.6552,18-29,Male,Other Employment,4o,stablediffusion,stablediffusion,stablediffusion,Asia
+A family is having a barbecue in the park.,1,stablediffusion_family.jpg,stablediffusion_family.jpg,LY,ar,0.5161,30-39,Male,Education,4o,stablediffusion,stablediffusion,stablediffusion,Africa
+A family is having a barbecue in the park.,1,halfmoon_family.jpg,halfmoon_family.jpg,RU,ru,0.4505,Unknown,Unknown,Unknown,dalle3,halfmoon,halfmoon,halfmoon,Europe
+A family is having a barbecue in the park.,1,halfmoon_family.jpg,halfmoon_family.jpg,IT,it,0.1419,50-64,Other,Other Education Professional,dalle3,halfmoon,halfmoon,halfmoon,Europe
+A family is having a barbecue in the park.,1,halfmoon_family.jpg,dalle3_family.jpg,RU,ru,0.4707,30-39,Other,Skilled Manual Trades,dalle3,halfmoon,halfmoon,dalle3,Europe
+A family is having a barbecue in the park.,1,halfmoon_family.jpg,dalle3_family.jpg,PH,en,0.3953,Unknown,Unknown,Unknown,dalle3,halfmoon,halfmoon,dalle3,Asia
+A family is having a barbecue in the park.,1,halfmoon_family.jpg,halfmoon_family.jpg,BR,pt,0.4375,Unknown,Unknown,Unknown,dalle3,halfmoon,halfmoon,halfmoon,South America
+A family is having a barbecue in the park.,1,halfmoon_family.jpg,halfmoon_family.jpg,EG,ar,0.2412,0-17,Other,Technology,dalle3,halfmoon,halfmoon,halfmoon,Africa
+A family is having a barbecue in the park.,1,halfmoon_family.jpg,halfmoon_family.jpg,EG,en,0.6199,Unknown,Unknown,Unknown,dalle3,halfmoon,halfmoon,halfmoon,Africa
+A family is having a barbecue in the park.,1,halfmoon_family.jpg,halfmoon_family.jpg,RS,en,0.6187,40-49,Male,Other Employment,dalle3,halfmoon,halfmoon,halfmoon,Europe
+A family is having a barbecue in the park.,1,stablediffusion_family.jpg,dalle3_family.jpg,EG,ar,0.6769,Unknown,Unknown,Unknown,dalle3,stablediffusion,stablediffusion,dalle3,Africa
+A family is having a barbecue in the park.,1,stablediffusion_family.jpg,dalle3_family.jpg,TZ,en,0.421,Unknown,Unknown,Unknown,dalle3,stablediffusion,stablediffusion,dalle3,Africa
+A family is having a barbecue in the park.,1,stablediffusion_family.jpg,dalle3_family.jpg,IN,en,0.0532,18-29,Male,Creative & Media,dalle3,stablediffusion,stablediffusion,dalle3,Asia
+A family is having a barbecue in the park.,1,stablediffusion_family.jpg,stablediffusion_family.jpg,IN,en,0.4157,Unknown,Unknown,Unknown,dalle3,stablediffusion,stablediffusion,stablediffusion,Asia
+A family is having a barbecue in the park.,1,stablediffusion_family.jpg,stablediffusion_family.jpg,ES,es,0.2394,Unknown,Unknown,Unknown,dalle3,stablediffusion,stablediffusion,stablediffusion,Europe
+A family is having a barbecue in the park.,1,stablediffusion_family.jpg,stablediffusion_family.jpg,LY,ar,0.5161,30-39,Male,Education,dalle3,stablediffusion,stablediffusion,stablediffusion,Africa
+A family is having a barbecue in the park.,0,halfmoon_family.jpg,halfmoon_family.jpg,CD,fr,0.6584,18-29,Female,Other Employment,halfmoon,stablediffusion,halfmoon,halfmoon,Africa
+A family is having a barbecue in the park.,0,halfmoon_family.jpg,stablediffusion_family.jpg,PK,en,0.1119,Unknown,Unknown,Unknown,halfmoon,stablediffusion,halfmoon,stablediffusion,Asia
+A family is having a barbecue in the park.,0,halfmoon_family.jpg,stablediffusion_family.jpg,IN,en,0.5249,0-17,Male,Healthcare,halfmoon,stablediffusion,halfmoon,stablediffusion,Asia
+A family is having a barbecue in the park.,0,halfmoon_family.jpg,stablediffusion_family.jpg,IN,en,0.0532,18-29,Male,Creative & Media,halfmoon,stablediffusion,halfmoon,stablediffusion,Asia
+A family is having a barbecue in the park.,0,halfmoon_family.jpg,stablediffusion_family.jpg,MY,en,0.5677,Unknown,Male,Unknown,halfmoon,stablediffusion,halfmoon,stablediffusion,Asia
+A family is having a barbecue in the park.,0,halfmoon_family.jpg,halfmoon_family.jpg,BR,pt,0.4375,Unknown,Unknown,Unknown,halfmoon,stablediffusion,halfmoon,halfmoon,South America
+A family is having a barbecue in the park.,0,halfmoon_family.jpg,halfmoon_family.jpg,EG,ar,0.2412,0-17,Other,Technology,halfmoon,stablediffusion,halfmoon,halfmoon,Africa
+A family is having a barbecue in the park.,0,4o_family.jpg,4o_family.jpg,BR,pt,0.5426,Unknown,Unknown,Unknown,4o,dalle3,4o,4o,South America
+A family is having a barbecue in the park.,0,4o_family.jpg,4o_family.jpg,EG,ar,0.6769,Unknown,Unknown,Unknown,4o,dalle3,4o,4o,Africa
+A family is having a barbecue in the park.,0,4o_family.jpg,4o_family.jpg,IN,en,0.272,40-49,Female,Unemployed or Student,4o,dalle3,4o,4o,Asia
+A family is having a barbecue in the park.,0,4o_family.jpg,4o_family.jpg,PK,en,0.1119,Unknown,Unknown,Unknown,4o,dalle3,4o,4o,Asia
+A family is having a barbecue in the park.,0,4o_family.jpg,4o_family.jpg,DZ,ar,0.6122,Unknown,Unknown,Unknown,4o,dalle3,4o,4o,Africa
+A family is having a barbecue in the park.,0,4o_family.jpg,4o_family.jpg,IN,en,0.2803,18-29,Male,Unknown,4o,dalle3,4o,4o,Asia
+A family is having a barbecue in the park.,0,4o_family.jpg,4o_family.jpg,RU,ru,0.6593,65+,Other,Unknown,4o,halfmoon,4o,4o,Europe
+A family is having a barbecue in the park.,0,4o_family.jpg,halfmoon_family.jpg,IN,hi,0.3132,30-39,Female,Unemployed or Student,4o,halfmoon,4o,halfmoon,Asia
+A family is having a barbecue in the park.,0,4o_family.jpg,4o_family.jpg,IN,en,0.3288,50-64,Male,Unemployed or Student,4o,halfmoon,4o,4o,Asia
+A family is having a barbecue in the park.,0,4o_family.jpg,halfmoon_family.jpg,IN,en,0.4446,18-29,Other,Unemployed or Student,4o,halfmoon,4o,halfmoon,Asia
+A family is having a barbecue in the park.,0,4o_family.jpg,4o_family.jpg,RU,ru,0.3,Unknown,Unknown,Unknown,4o,halfmoon,4o,4o,Europe
+A family is having a barbecue in the park.,0,4o_family.jpg,4o_family.jpg,IN,en,0.5594,Unknown,Unknown,Unknown,4o,stablediffusion,4o,4o,Asia
+A family is having a barbecue in the park.,0,4o_family.jpg,4o_family.jpg,IN,en,0.2701,40-49,Female,Unemployed or Student,4o,stablediffusion,4o,4o,Asia
+A family is having a barbecue in the park.,0,4o_family.jpg,4o_family.jpg,IN,en,0.2613,Unknown,Unknown,Unknown,4o,stablediffusion,4o,4o,Asia
+A family is having a barbecue in the park.,0,4o_family.jpg,4o_family.jpg,IN,en,0.6603,65+,Other,Other Employment,4o,stablediffusion,4o,4o,Asia
+A family is having a barbecue in the park.,0,4o_family.jpg,4o_family.jpg,RS,en,0.6474,30-39,Female,Other Employment,4o,stablediffusion,4o,4o,Europe
+A family is having a barbecue in the park.,0,dalle3_family.jpg,halfmoon_family.jpg,EG,ar,0.2548,50-64,Female,Other Employment,dalle3,halfmoon,dalle3,halfmoon,Africa
+A family is having a barbecue in the park.,0,dalle3_family.jpg,halfmoon_family.jpg,VN,vi,0.5609,Unknown,Unknown,Unknown,dalle3,halfmoon,dalle3,halfmoon,Asia
+A family is having a barbecue in the park.,0,dalle3_family.jpg,dalle3_family.jpg,DZ,fr,0.0,65+,Female,Other Employment,dalle3,halfmoon,dalle3,dalle3,Africa
+A family is having a barbecue in the park.,0,dalle3_family.jpg,dalle3_family.jpg,IN,en,0.3135,50-64,Male,Unemployed or Student,dalle3,halfmoon,dalle3,dalle3,Asia
+A family is having a barbecue in the park.,0,dalle3_family.jpg,dalle3_family.jpg,DZ,ar,0.62,Unknown,Unknown,Unknown,dalle3,halfmoon,dalle3,dalle3,Africa
+A family is having a barbecue in the park.,0,dalle3_family.jpg,dalle3_family.jpg,IN,en,0.5936,Unknown,Unknown,Unknown,dalle3,stablediffusion,dalle3,dalle3,Asia
+A family is having a barbecue in the park.,0,dalle3_family.jpg,dalle3_family.jpg,RU,ru,0.6807,50-64,Male,Technology,dalle3,stablediffusion,dalle3,dalle3,Europe
+A family is having a barbecue in the park.,0,dalle3_family.jpg,dalle3_family.jpg,IN,en,0.4446,18-29,Other,Unemployed or Student,dalle3,stablediffusion,dalle3,dalle3,Asia
+A family is having a barbecue in the park.,0,dalle3_family.jpg,stablediffusion_family.jpg,PH,en,0.4312,Unknown,Unknown,Unknown,dalle3,stablediffusion,dalle3,stablediffusion,Asia
+A family is having a barbecue in the park.,0,dalle3_family.jpg,stablediffusion_family.jpg,LY,ar,0.3102,40-49,Male,Skilled Manual Trades,dalle3,stablediffusion,dalle3,stablediffusion,Africa
+A family is having a barbecue in the park.,0,dalle3_family.jpg,stablediffusion_family.jpg,KE,en,0.4421,18-29,Female,Unknown,dalle3,stablediffusion,dalle3,stablediffusion,Africa
+A family is having a barbecue in the park.,0,halfmoon_family.jpg,halfmoon_family.jpg,PH,en,0.2396,30-39,Male,Skilled Manual Trades,halfmoon,stablediffusion,halfmoon,halfmoon,Asia
+A family is having a barbecue in the park.,0,halfmoon_family.jpg,halfmoon_family.jpg,IN,en,0.5594,Unknown,Unknown,Unknown,halfmoon,stablediffusion,halfmoon,halfmoon,Asia
+A family is having a barbecue in the park.,0,halfmoon_family.jpg,halfmoon_family.jpg,IN,en,0.5936,Unknown,Unknown,Unknown,halfmoon,stablediffusion,halfmoon,halfmoon,Asia
+A family is having a barbecue in the park.,0,halfmoon_family.jpg,halfmoon_family.jpg,EG,ar,0.2606,40-49,Female,Unemployed or Student,halfmoon,stablediffusion,halfmoon,halfmoon,Africa
+A family is having a barbecue in the park.,0,halfmoon_family.jpg,halfmoon_family.jpg,EG,ar,0.2618,65+,Other,None of these,halfmoon,stablediffusion,halfmoon,halfmoon,Africa
+A blue bunny in a pink water toilet bowl.,1,dalle3_bunny.jpg,dalle3_bunny.jpg,DE,de,0.4309,50-64,Female,None of these,4o,dalle3,dalle3,dalle3,Europe
+A blue bunny in a pink water toilet bowl.,1,dalle3_bunny.jpg,dalle3_bunny.jpg,TR,tr,0.2689,18-29,Male,Other Employment,4o,dalle3,dalle3,dalle3,Asia
+A blue bunny in a pink water toilet bowl.,1,dalle3_bunny.jpg,dalle3_bunny.jpg,IN,en,0.1917,30-39,Unknown,Unknown,4o,dalle3,dalle3,dalle3,Asia
+A blue bunny in a pink water toilet bowl.,1,dalle3_bunny.jpg,dalle3_bunny.jpg,IN,en,0.2293,0-17,Female,Healthcare,4o,dalle3,dalle3,dalle3,Asia
+A blue bunny in a pink water toilet bowl.,1,dalle3_bunny.jpg,dalle3_bunny.jpg,TR,tr,0.0415,Unknown,Unknown,Unknown,4o,dalle3,dalle3,dalle3,Asia
+A blue bunny in a pink water toilet bowl.,1,dalle3_bunny.jpg,dalle3_bunny.jpg,IN,en,0.2188,Unknown,Unknown,Unknown,4o,dalle3,dalle3,dalle3,Asia
+A blue bunny in a pink water toilet bowl.,1,halfmoon_bunny.jpg,halfmoon_bunny.jpg,PY,es,0.7967,18-29,Other,Other Employment,4o,halfmoon,halfmoon,halfmoon,South America
+A blue bunny in a pink water toilet bowl.,1,halfmoon_bunny.jpg,halfmoon_bunny.jpg,IN,en,0.3049,50-64,Male,Unemployed or Student,4o,halfmoon,halfmoon,halfmoon,Asia
+A blue bunny in a pink water toilet bowl.,1,halfmoon_bunny.jpg,4o_bunny.jpg,RS,sr,0.112,0-17,Male,Other Employment,4o,halfmoon,halfmoon,4o,Europe
+A blue bunny in a pink water toilet bowl.,1,halfmoon_bunny.jpg,halfmoon_bunny.jpg,RU,ru,0.4832,0-17,Other,Unemployed or Student,4o,halfmoon,halfmoon,halfmoon,Europe
+A blue bunny in a pink water toilet bowl.,1,halfmoon_bunny.jpg,4o_bunny.jpg,DZ,en,0.6703,Unknown,Unknown,Unknown,4o,halfmoon,halfmoon,4o,Africa
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,stablediffusion_bunny.jpg,IN,en,0.3574,18-29,Other,Skilled Manual Trades,4o,stablediffusion,stablediffusion,stablediffusion,Asia
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,stablediffusion_bunny.jpg,EG,ar,0.3826,50-64,Female,Education,4o,stablediffusion,stablediffusion,stablediffusion,Africa
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,stablediffusion_bunny.jpg,MZ,pt,0.5982,50-64,Other,Creative & Media,4o,stablediffusion,stablediffusion,stablediffusion,Africa
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,stablediffusion_bunny.jpg,ID,id,0.4469,Unknown,Unknown,Unknown,4o,stablediffusion,stablediffusion,stablediffusion,Asia
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,4o_bunny.jpg,PY,es,0.7967,18-29,Other,Other Employment,4o,stablediffusion,stablediffusion,4o,South America
+A blue bunny in a pink water toilet bowl.,1,halfmoon_bunny.jpg,dalle3_bunny.jpg,IN,en,0.001,0-17,Other,Unknown,dalle3,halfmoon,halfmoon,dalle3,Asia
+A blue bunny in a pink water toilet bowl.,1,halfmoon_bunny.jpg,halfmoon_bunny.jpg,EG,ar,0.2606,40-49,Female,Unemployed or Student,dalle3,halfmoon,halfmoon,halfmoon,Africa
+A blue bunny in a pink water toilet bowl.,1,halfmoon_bunny.jpg,halfmoon_bunny.jpg,TR,tr,0.3612,65+,Other,Other Employment,dalle3,halfmoon,halfmoon,halfmoon,Asia
+A blue bunny in a pink water toilet bowl.,1,halfmoon_bunny.jpg,halfmoon_bunny.jpg,DE,de,0.5595,0-17,Male,Other Employment,dalle3,halfmoon,halfmoon,halfmoon,Europe
+A blue bunny in a pink water toilet bowl.,1,halfmoon_bunny.jpg,dalle3_bunny.jpg,LY,ar,0.3102,40-49,Male,Skilled Manual Trades,dalle3,halfmoon,halfmoon,dalle3,Africa
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,stablediffusion_bunny.jpg,RU,ru,0.6403,50-64,Female,Other Employment,dalle3,stablediffusion,stablediffusion,stablediffusion,Europe
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,stablediffusion_bunny.jpg,EG,ar,0.3805,30-39,Female,Other Employment,dalle3,stablediffusion,stablediffusion,stablediffusion,Africa
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,dalle3_bunny.jpg,RU,ru,0.3217,40-49,Other,Technology,dalle3,stablediffusion,stablediffusion,dalle3,Europe
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,stablediffusion_bunny.jpg,PK,en,0.1119,Unknown,Unknown,Unknown,dalle3,stablediffusion,stablediffusion,stablediffusion,Asia
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,stablediffusion_bunny.jpg,EG,en,0.2052,18-29,Female,Education,dalle3,stablediffusion,stablediffusion,stablediffusion,Africa
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,halfmoon_bunny.jpg,TR,tr,0.2784,0-17,Female,Unknown,halfmoon,stablediffusion,stablediffusion,halfmoon,Asia
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,stablediffusion_bunny.jpg,LY,ar,0.168,50-64,Female,Education,halfmoon,stablediffusion,stablediffusion,stablediffusion,Africa
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,stablediffusion_bunny.jpg,LY,ar,0.3,Unknown,Unknown,Unknown,halfmoon,stablediffusion,stablediffusion,stablediffusion,Africa
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,halfmoon_bunny.jpg,BR,pt,0.3849,18-29,Female,Unemployed or Student,halfmoon,stablediffusion,stablediffusion,halfmoon,South America
+A blue bunny in a pink water toilet bowl.,1,stablediffusion_bunny.jpg,stablediffusion_bunny.jpg,PH,en,0.3255,0-17,Female,Technology,halfmoon,stablediffusion,stablediffusion,stablediffusion,Asia
+A family is having a barbecue in the park.,0,4o_family.jpg,4o_family.jpg,RU,ru,0.3217,40-49,Other,Technology,4o,dalle3,4o,4o,Europe
+A family is having a barbecue in the park.,0,4o_family.jpg,4o_family.jpg,EG,ar,0.3901,40-49,Male,Education,4o,dalle3,4o,4o,Africa
+A family is having a barbecue in the park.,0,4o_family.jpg,4o_family.jpg,IN,en,0.2613,Unknown,Unknown,Unknown,4o,dalle3,4o,4o,Asia
+A family is having a barbecue in the park.,0,4o_family.jpg,4o_family.jpg,TR,tr,0.0415,Unknown,Unknown,Unknown,4o,dalle3,4o,4o,Asia
+A family is having a barbecue in the park.,0,4o_family.jpg,4o_family.jpg,DE,de,0.4484,65+,Male,Technology,4o,dalle3,4o,4o,Europe
+A family is having a barbecue in the park.,0,4o_family.jpg,4o_family.jpg,IN,en,0.3627,Unknown,Unknown,Unknown,4o,dalle3,4o,4o,Asia
+A family is having a barbecue in the park.,1,halfmoon_family.jpg,halfmoon_family.jpg,TR,tr,0.2689,18-29,Male,Other Employment,4o,halfmoon,halfmoon,halfmoon,Asia
+A family is having a barbecue in the park.,1,halfmoon_family.jpg,4o_family.jpg,IN,en,0.4129,18-29,Male,Education,4o,halfmoon,halfmoon,4o,Asia
+A family is having a barbecue in the park.,1,halfmoon_family.jpg,4o_family.jpg,IN,en,0.2293,0-17,Female,Healthcare,4o,halfmoon,halfmoon,4o,Asia
+A family is having a barbecue in the park.,1,halfmoon_family.jpg,halfmoon_family.jpg,RU,ru,0.6807,50-64,Male,Technology,4o,halfmoon,halfmoon,halfmoon,Europe
+A family is having a barbecue in the park.,1,halfmoon_family.jpg,halfmoon_family.jpg,EG,ar,0.2606,40-49,Female,Unemployed or Student,4o,halfmoon,halfmoon,halfmoon,Africa
+A family is having a barbecue in the park.,0,4o_family.jpg,4o_family.jpg,RS,tr,0.5869,50-64,Male,Unemployed or Student,4o,stablediffusion,4o,4o,Europe
+A family is having a barbecue in the park.,0,4o_family.jpg,stablediffusion_family.jpg,RU,ru,0.4505,Unknown,Unknown,Unknown,4o,stablediffusion,4o,stablediffusion,Europe
+A family is having a barbecue in the park.,0,4o_family.jpg,4o_family.jpg,RU,ru,0.5548,0-17,Male,Technology,4o,stablediffusion,4o,4o,Europe
+A family is having a barbecue in the park.,0,4o_family.jpg,4o_family.jpg,UA,uk,0.3,Unknown,Unknown,Unknown,4o,stablediffusion,4o,4o,Europe
+A family is having a barbecue in the park.,0,4o_family.jpg,4o_family.jpg,IN,en,0.4364,18-29,Male,Education,4o,stablediffusion,4o,4o,Asia
+A family is having a barbecue in the park.,0,dalle3_family.jpg,dalle3_family.jpg,RU,ru,0.5548,0-17,Male,Technology,dalle3,halfmoon,dalle3,dalle3,Europe
+A family is having a barbecue in the park.,0,dalle3_family.jpg,halfmoon_family.jpg,RS,en,0.6474,30-39,Female,Other Employment,dalle3,halfmoon,dalle3,halfmoon,Europe
+A family is having a barbecue in the park.,0,dalle3_family.jpg,dalle3_family.jpg,EG,en,0.2052,18-29,Female,Education,dalle3,halfmoon,dalle3,dalle3,Africa
+A family is having a barbecue in the park.,0,dalle3_family.jpg,dalle3_family.jpg,MA,fr,0.5391,Unknown,Unknown,Unknown,dalle3,halfmoon,dalle3,dalle3,Africa
+A family is having a barbecue in the park.,0,dalle3_family.jpg,halfmoon_family.jpg,EG,en,0.6199,Unknown,Unknown,Unknown,dalle3,halfmoon,dalle3,halfmoon,Africa
+A family is having a barbecue in the park.,0,dalle3_family.jpg,dalle3_family.jpg,BR,pt,0.5426,Unknown,Unknown,Unknown,dalle3,stablediffusion,dalle3,dalle3,South America
+A family is having a barbecue in the park.,0,dalle3_family.jpg,dalle3_family.jpg,TR,tr,0.2212,18-29,Female,Unemployed or Student,dalle3,stablediffusion,dalle3,dalle3,Asia
+A family is having a barbecue in the park.,0,dalle3_family.jpg,stablediffusion_family.jpg,KE,en,0.4421,18-29,Female,Unknown,dalle3,stablediffusion,dalle3,stablediffusion,Africa
+A family is having a barbecue in the park.,0,dalle3_family.jpg,stablediffusion_family.jpg,RS,sr,0.3548,30-39,Male,Other Skilled Manual Trade Professional,dalle3,stablediffusion,dalle3,stablediffusion,Europe
+A family is having a barbecue in the park.,0,dalle3_family.jpg,dalle3_family.jpg,IN,en,0.2353,Unknown,Unknown,Unknown,dalle3,stablediffusion,dalle3,dalle3,Asia
+A family is having a barbecue in the park.,0,dalle3_family.jpg,dalle3_family.jpg,RU,ru,0.6807,50-64,Male,Technology,dalle3,stablediffusion,dalle3,dalle3,Europe
+A family is having a barbecue in the park.,0,halfmoon_family.jpg,stablediffusion_family.jpg,IN,en,0.2334,18-29,Female,Unknown,halfmoon,stablediffusion,halfmoon,stablediffusion,Asia
+A family is having a barbecue in the park.,0,halfmoon_family.jpg,stablediffusion_family.jpg,IN,en,0.0926,18-29,Female,Unemployed or Student,halfmoon,stablediffusion,halfmoon,stablediffusion,Asia
+A family is having a barbecue in the park.,0,halfmoon_family.jpg,halfmoon_family.jpg,RU,ru,0.4707,30-39,Other,Skilled Manual Trades,halfmoon,stablediffusion,halfmoon,halfmoon,Europe
+A family is having a barbecue in the park.,0,halfmoon_family.jpg,halfmoon_family.jpg,IN,en,0.0015,Unknown,Unknown,Unknown,halfmoon,stablediffusion,halfmoon,halfmoon,Asia
+A family is having a barbecue in the park.,0,halfmoon_family.jpg,halfmoon_family.jpg,IN,en,0.0532,18-29,Male,Creative & Media,halfmoon,stablediffusion,halfmoon,halfmoon,Asia
+A family is having a barbecue in the park.,0,halfmoon_family.jpg,halfmoon_family.jpg,IN,en,0.2188,Unknown,Unknown,Unknown,halfmoon,stablediffusion,halfmoon,halfmoon,Asia
+A black colored banana.,0,4o_banana.jpg,4o_banana.jpg,IN,en,0.1917,30-39,Unknown,Unknown,4o,dalle3,4o,4o,Asia
+A black colored banana.,0,4o_banana.jpg,dalle3_banana.jpg,IN,en,0.4212,Unknown,Unknown,Unknown,4o,dalle3,4o,dalle3,Asia
+A black colored banana.,0,4o_banana.jpg,4o_banana.jpg,IN,en,0.6971,0-17,Male,Business & Finance,4o,dalle3,4o,4o,Asia
+A black colored banana.,0,4o_banana.jpg,dalle3_banana.jpg,EG,en,0.6199,Unknown,Unknown,Unknown,4o,dalle3,4o,dalle3,Africa
+A black colored banana.,0,4o_banana.jpg,4o_banana.jpg,IN,en,0.2912,50-64,Male,Unemployed or Student,4o,dalle3,4o,4o,Asia
+A black colored banana.,1,halfmoon_banana.jpg,halfmoon_banana.jpg,DE,de,0.4309,50-64,Female,None of these,4o,halfmoon,halfmoon,halfmoon,Europe
+A black colored banana.,1,halfmoon_banana.jpg,halfmoon_banana.jpg,IN,en,0.4344,18-29,Male,Unknown,4o,halfmoon,halfmoon,halfmoon,Asia
+A black colored banana.,1,halfmoon_banana.jpg,halfmoon_banana.jpg,IN,en,0.2803,18-29,Male,Unknown,4o,halfmoon,halfmoon,halfmoon,Asia
+A black colored banana.,1,halfmoon_banana.jpg,halfmoon_banana.jpg,RS,sr,0.3548,30-39,Male,Other Skilled Manual Trade Professional,4o,halfmoon,halfmoon,halfmoon,Europe
+A black colored banana.,1,halfmoon_banana.jpg,halfmoon_banana.jpg,RS,sr,0.112,0-17,Male,Other Employment,4o,halfmoon,halfmoon,halfmoon,Europe
+A black colored banana.,1,halfmoon_banana.jpg,halfmoon_banana.jpg,IN,en,0.2188,Unknown,Unknown,Unknown,4o,halfmoon,halfmoon,halfmoon,Asia
+A black colored banana.,0,4o_banana.jpg,stablediffusion_banana.jpg,TR,tr,0.1858,0-17,Female,Education,4o,stablediffusion,4o,stablediffusion,Asia
+A black colored banana.,0,4o_banana.jpg,4o_banana.jpg,RU,ru,0.3455,Unknown,Unknown,Unknown,4o,stablediffusion,4o,4o,Europe
+A black colored banana.,0,4o_banana.jpg,4o_banana.jpg,RU,ru,0.4707,30-39,Other,Skilled Manual Trades,4o,stablediffusion,4o,4o,Europe
+A black colored banana.,0,4o_banana.jpg,4o_banana.jpg,IN,en,0.3288,50-64,Male,Unemployed or Student,4o,stablediffusion,4o,4o,Asia
+A black colored banana.,0,4o_banana.jpg,4o_banana.jpg,DE,de,0.3932,18-29,Other,Skilled Manual Trades,4o,stablediffusion,4o,4o,Europe
+A black colored banana.,0,dalle3_banana.jpg,dalle3_banana.jpg,IN,en,0.2328,0-17,Female,Other Creative & Media Professional,dalle3,halfmoon,dalle3,dalle3,Asia
+A black colored banana.,0,dalle3_banana.jpg,dalle3_banana.jpg,DZ,ar,0.62,Unknown,Unknown,Unknown,dalle3,halfmoon,dalle3,dalle3,Africa
+A black colored banana.,0,dalle3_banana.jpg,halfmoon_banana.jpg,IN,en,0.4384,18-29,Male,Unknown,dalle3,halfmoon,dalle3,halfmoon,Asia
+A black colored banana.,0,dalle3_banana.jpg,dalle3_banana.jpg,DZ,en,0.6635,Unknown,Unknown,Unknown,dalle3,halfmoon,dalle3,dalle3,Africa
+A black colored banana.,0,dalle3_banana.jpg,dalle3_banana.jpg,TR,tr,0.2712,30-39,Female,Unemployed or Student,dalle3,halfmoon,dalle3,dalle3,Asia
+A black colored banana.,0,dalle3_banana.jpg,dalle3_banana.jpg,RS,en,0.6474,30-39,Female,Other Employment,dalle3,halfmoon,dalle3,dalle3,Europe
+A black colored banana.,0,dalle3_banana.jpg,dalle3_banana.jpg,IN,en,0.6172,Unknown,Unknown,Unknown,dalle3,stablediffusion,dalle3,dalle3,Asia
+A black colored banana.,0,dalle3_banana.jpg,dalle3_banana.jpg,IN,en,0.4017,18-29,Other,Education,dalle3,stablediffusion,dalle3,dalle3,Asia
+A black colored banana.,0,dalle3_banana.jpg,dalle3_banana.jpg,IN,en,0.3049,50-64,Male,Unemployed or Student,dalle3,stablediffusion,dalle3,dalle3,Asia
+A black colored banana.,0,dalle3_banana.jpg,dalle3_banana.jpg,RU,ru,0.4832,0-17,Other,Unemployed or Student,dalle3,stablediffusion,dalle3,dalle3,Europe
+A black colored banana.,0,dalle3_banana.jpg,dalle3_banana.jpg,DE,de,0.186,Unknown,Unknown,Unknown,dalle3,stablediffusion,dalle3,dalle3,Europe
+A black colored banana.,0,halfmoon_banana.jpg,stablediffusion_banana.jpg,TR,tr,0.2784,0-17,Female,Unknown,halfmoon,stablediffusion,halfmoon,stablediffusion,Asia
+A black colored banana.,0,halfmoon_banana.jpg,halfmoon_banana.jpg,IT,it,0.5903,30-39,Other,Other Employment,halfmoon,stablediffusion,halfmoon,halfmoon,Europe
+A black colored banana.,0,halfmoon_banana.jpg,halfmoon_banana.jpg,LY,ar,0.2042,40-49,Female,Education,halfmoon,stablediffusion,halfmoon,halfmoon,Africa
+A black colored banana.,0,halfmoon_banana.jpg,halfmoon_banana.jpg,IN,en,0.4212,Unknown,Unknown,Unknown,halfmoon,stablediffusion,halfmoon,halfmoon,Asia
+A black colored banana.,0,halfmoon_banana.jpg,stablediffusion_banana.jpg,AU,en,0.6199,50-64,Male,Other Employment,halfmoon,stablediffusion,halfmoon,stablediffusion,Oceania
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,4o_bathroom.jpg,PL,pl,0.1287,40-49,Other,Skilled Manual Trades,4o,dalle3,4o,4o,Europe
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,4o_bathroom.jpg,IN,en,0.5203,30-39,Female,Unemployed or Student,4o,dalle3,4o,4o,Asia
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,4o_bathroom.jpg,TR,tr,0.4201,0-17,Female,Other Employment,4o,dalle3,4o,4o,Asia
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,dalle3_bathroom.jpg,RS,sr,0.4644,50-64,Male,Technology,4o,dalle3,4o,dalle3,Europe
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,4o_bathroom.jpg,TR,tr,0.2434,18-29,Female,Other Employment,4o,dalle3,4o,4o,Asia
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,4o_bathroom.jpg,IN,en,0.3085,0-17,Male,Unemployed or Student,4o,halfmoon,4o,4o,Asia
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,4o_bathroom.jpg,IT,it,0.3583,30-39,Male,Healthcare,4o,halfmoon,4o,4o,Europe
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,halfmoon_bathroom.jpg,EG,ar,0.2548,50-64,Female,Other Employment,4o,halfmoon,4o,halfmoon,Africa
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,4o_bathroom.jpg,LY,ar,0.4923,40-49,Other,Other Employment,4o,halfmoon,4o,4o,Africa
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,4o_bathroom.jpg,IN,en,0.272,40-49,Female,Unemployed or Student,4o,halfmoon,4o,4o,Asia
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,4o_bathroom.jpg,RU,ru,0.4707,30-39,Other,Skilled Manual Trades,4o,halfmoon,4o,4o,Europe
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,halfmoon_bathroom.jpg,IN,en,0.3627,Unknown,Unknown,Unknown,4o,halfmoon,4o,halfmoon,Asia
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,4o_bathroom.jpg,PK,en,0.345,Unknown,Unknown,Unknown,4o,stablediffusion,4o,4o,Asia
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,4o_bathroom.jpg,LY,ar,0.4923,40-49,Other,Other Employment,4o,stablediffusion,4o,4o,Africa
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,4o_bathroom.jpg,DZ,fr,0.3,Unknown,Unknown,Unknown,4o,stablediffusion,4o,4o,Africa
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,4o_bathroom.jpg,EG,en,0.2177,30-39,Male,Creative & Media,4o,stablediffusion,4o,4o,Africa
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,4o_bathroom.jpg,AU,en,0.6199,50-64,Male,Other Employment,4o,stablediffusion,4o,4o,Oceania
+A bathroom with green tile and a red shower curtain.,1,halfmoon_bathroom.jpg,halfmoon_bathroom.jpg,DE,de,0.6193,Unknown,Unknown,Unknown,dalle3,halfmoon,halfmoon,halfmoon,Europe
+A bathroom with green tile and a red shower curtain.,1,halfmoon_bathroom.jpg,halfmoon_bathroom.jpg,ID,id,0.2625,Unknown,Unknown,Unknown,dalle3,halfmoon,halfmoon,halfmoon,Asia
+A bathroom with green tile and a red shower curtain.,1,halfmoon_bathroom.jpg,halfmoon_bathroom.jpg,IN,en,0.1467,40-49,Other,Technology,dalle3,halfmoon,halfmoon,halfmoon,Asia
+A bathroom with green tile and a red shower curtain.,1,halfmoon_bathroom.jpg,halfmoon_bathroom.jpg,EG,ar,0.186,0-17,Male,Unknown,dalle3,halfmoon,halfmoon,halfmoon,Africa
+A bathroom with green tile and a red shower curtain.,1,halfmoon_bathroom.jpg,dalle3_bathroom.jpg,IN,en,0.3049,50-64,Male,Unemployed or Student,dalle3,halfmoon,halfmoon,dalle3,Asia
+A bathroom with green tile and a red shower curtain.,0,dalle3_bathroom.jpg,dalle3_bathroom.jpg,EG,ar,0.4047,30-39,Female,Healthcare,dalle3,stablediffusion,dalle3,dalle3,Africa
+A bathroom with green tile and a red shower curtain.,0,dalle3_bathroom.jpg,dalle3_bathroom.jpg,IN,en,0.7334,Unknown,Unknown,Unknown,dalle3,stablediffusion,dalle3,dalle3,Asia
+A bathroom with green tile and a red shower curtain.,0,dalle3_bathroom.jpg,stablediffusion_bathroom.jpg,IN,en,0.526,30-39,Female,Unemployed or Student,dalle3,stablediffusion,dalle3,stablediffusion,Asia
+A bathroom with green tile and a red shower curtain.,0,dalle3_bathroom.jpg,stablediffusion_bathroom.jpg,RU,ru,0.4707,30-39,Other,Skilled Manual Trades,dalle3,stablediffusion,dalle3,stablediffusion,Europe
+A bathroom with green tile and a red shower curtain.,0,dalle3_bathroom.jpg,dalle3_bathroom.jpg,IN,hi,0.3132,30-39,Female,Unemployed or Student,dalle3,stablediffusion,dalle3,dalle3,Asia
+A bathroom with green tile and a red shower curtain.,1,stablediffusion_bathroom.jpg,stablediffusion_bathroom.jpg,RU,ru,0.6593,65+,Other,Unknown,halfmoon,stablediffusion,stablediffusion,stablediffusion,Europe
+A bathroom with green tile and a red shower curtain.,1,stablediffusion_bathroom.jpg,stablediffusion_bathroom.jpg,IT,it,0.1419,50-64,Other,Other Education Professional,halfmoon,stablediffusion,stablediffusion,stablediffusion,Europe
+A bathroom with green tile and a red shower curtain.,1,stablediffusion_bathroom.jpg,stablediffusion_bathroom.jpg,UA,uk,0.3,Unknown,Unknown,Unknown,halfmoon,stablediffusion,stablediffusion,stablediffusion,Europe
+A bathroom with green tile and a red shower curtain.,1,stablediffusion_bathroom.jpg,stablediffusion_bathroom.jpg,AZ,az,0.1065,Unknown,Unknown,Unknown,halfmoon,stablediffusion,stablediffusion,stablediffusion,Asia
+A bathroom with green tile and a red shower curtain.,1,stablediffusion_bathroom.jpg,stablediffusion_bathroom.jpg,RS,en,0.6474,30-39,Female,Other Employment,halfmoon,stablediffusion,stablediffusion,stablediffusion,Europe
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,4o_bathroom.jpg,IN,en,0.1917,30-39,Unknown,Unknown,4o,dalle3,4o,4o,Asia
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,4o_bathroom.jpg,FR,fr,0.4577,Unknown,Unknown,Unknown,4o,dalle3,4o,4o,Europe
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,dalle3_bathroom.jpg,IN,en,0.0,Unknown,Unknown,Unknown,4o,dalle3,4o,dalle3,Asia
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,4o_bathroom.jpg,LY,ar,0.5161,30-39,Male,Education,4o,dalle3,4o,4o,Africa
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,4o_bathroom.jpg,PH,en,0.5819,65+,Female,Unemployed or Student,4o,dalle3,4o,4o,Asia
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,4o_bathroom.jpg,AT,de,0.7959,50-64,Female,Skilled Manual Trades,4o,dalle3,4o,4o,Europe
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,4o_bathroom.jpg,TR,tr,0.1858,0-17,Female,Education,4o,halfmoon,4o,4o,Asia
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,4o_bathroom.jpg,IT,it,0.3297,30-39,Male,Healthcare,4o,halfmoon,4o,4o,Europe
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,halfmoon_bathroom.jpg,EG,en,0.2177,30-39,Male,Creative & Media,4o,halfmoon,4o,halfmoon,Africa
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,halfmoon_bathroom.jpg,IN,en,0.2613,Unknown,Unknown,Unknown,4o,halfmoon,4o,halfmoon,Asia
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,4o_bathroom.jpg,FR,fr,0.5408,Unknown,Unknown,Unknown,4o,halfmoon,4o,4o,Europe
+A bathroom with green tile and a red shower curtain.,0,4o_bathroom.jpg,4o_bathroom.jpg,IN,en,0.3627,Unknown,Unknown,Unknown,4o,halfmoon,4o,4o,Asia
+A bathroom with green tile and a red shower curtain.,1,stablediffusion_bathroom.jpg,4o_bathroom.jpg,RU,ru,0.4505,Unknown,Unknown,Unknown,4o,stablediffusion,stablediffusion,4o,Europe
+A bathroom with green tile and a red shower curtain.,1,stablediffusion_bathroom.jpg,stablediffusion_bathroom.jpg,IN,en,0.2701,40-49,Female,Unemployed or Student,4o,stablediffusion,stablediffusion,stablediffusion,Asia
+A bathroom with green tile and a red shower curtain.,1,stablediffusion_bathroom.jpg,stablediffusion_bathroom.jpg,IN,en,0.2912,50-64,Male,Unemployed or Student,4o,stablediffusion,stablediffusion,stablediffusion,Asia
+A bathroom with green tile and a red shower curtain.,1,stablediffusion_bathroom.jpg,stablediffusion_bathroom.jpg,RS,en,0.6187,40-49,Male,Other Employment,4o,stablediffusion,stablediffusion,stablediffusion,Europe
+A bathroom with green tile and a red shower curtain.,1,stablediffusion_bathroom.jpg,stablediffusion_bathroom.jpg,RS,sr,0.3717,40-49,Female,Unemployed or Student,4o,stablediffusion,stablediffusion,stablediffusion,Europe
+A bathroom with green tile and a red shower curtain.,1,stablediffusion_bathroom.jpg,stablediffusion_bathroom.jpg,EG,ar,0.3232,50-64,Female,Education,4o,stablediffusion,stablediffusion,stablediffusion,Africa
+A bathroom with green tile and a red shower curtain.,1,halfmoon_bathroom.jpg,halfmoon_bathroom.jpg,EG,ar,0.3805,30-39,Female,Other Employment,dalle3,halfmoon,halfmoon,halfmoon,Africa
+A bathroom with green tile and a red shower curtain.,1,halfmoon_bathroom.jpg,halfmoon_bathroom.jpg,IN,en,0.0869,Unknown,Unknown,Unknown,dalle3,halfmoon,halfmoon,halfmoon,Asia
+A bathroom with green tile and a red shower curtain.,1,halfmoon_bathroom.jpg,halfmoon_bathroom.jpg,IN,en,0.3288,50-64,Male,Unemployed or Student,dalle3,halfmoon,halfmoon,halfmoon,Asia
+A bathroom with green tile and a red shower curtain.,1,halfmoon_bathroom.jpg,halfmoon_bathroom.jpg,TZ,ar,0.6335,18-29,Male,Unknown,dalle3,halfmoon,halfmoon,halfmoon,Africa
+A bathroom with green tile and a red shower curtain.,1,halfmoon_bathroom.jpg,dalle3_bathroom.jpg,IN,en,0.4625,Unknown,Unknown,Unknown,dalle3,halfmoon,halfmoon,dalle3,Asia
+A bathroom with green tile and a red shower curtain.,1,halfmoon_bathroom.jpg,halfmoon_bathroom.jpg,MZ,pt,0.5982,50-64,Other,Creative & Media,dalle3,halfmoon,halfmoon,halfmoon,Africa
+A bathroom with green tile and a red shower curtain.,1,halfmoon_bathroom.jpg,halfmoon_bathroom.jpg,IN,en,0.4384,18-29,Male,Unknown,dalle3,halfmoon,halfmoon,halfmoon,Asia
+A bathroom with green tile and a red shower curtain.,0,dalle3_bathroom.jpg,stablediffusion_bathroom.jpg,IN,en,0.2816,50-64,Male,Healthcare,dalle3,stablediffusion,dalle3,stablediffusion,Asia
+A bathroom with green tile and a red shower curtain.,0,dalle3_bathroom.jpg,stablediffusion_bathroom.jpg,KZ,ru,0.3752,Unknown,Unknown,Unknown,dalle3,stablediffusion,dalle3,stablediffusion,Asia
+A bathroom with green tile and a red shower curtain.,0,dalle3_bathroom.jpg,dalle3_bathroom.jpg,RU,ru,0.5751,Unknown,Unknown,Unknown,dalle3,stablediffusion,dalle3,dalle3,Europe
+A bathroom with green tile and a red shower curtain.,0,dalle3_bathroom.jpg,dalle3_bathroom.jpg,PY,es,0.7967,18-29,Other,Other Employment,dalle3,stablediffusion,dalle3,dalle3,South America
+A bathroom with green tile and a red shower curtain.,0,dalle3_bathroom.jpg,stablediffusion_bathroom.jpg,BD,en,0.3266,Unknown,Unknown,Unknown,dalle3,stablediffusion,dalle3,stablediffusion,Asia
+A bathroom with green tile and a red shower curtain.,0,dalle3_bathroom.jpg,dalle3_bathroom.jpg,DZ,ar,0.4483,0-17,Male,Technology,dalle3,stablediffusion,dalle3,dalle3,Africa
+A bathroom with green tile and a red shower curtain.,0,halfmoon_bathroom.jpg,stablediffusion_bathroom.jpg,EG,en,0.2052,18-29,Female,Education,halfmoon,stablediffusion,halfmoon,stablediffusion,Africa
+A bathroom with green tile and a red shower curtain.,0,halfmoon_bathroom.jpg,halfmoon_bathroom.jpg,UA,ru,0.2214,0-17,Unknown,Unknown,halfmoon,stablediffusion,halfmoon,halfmoon,Europe
+A bathroom with green tile and a red shower curtain.,0,halfmoon_bathroom.jpg,halfmoon_bathroom.jpg,IN,en,0.3014,65+,Other,Unemployed or Student,halfmoon,stablediffusion,halfmoon,halfmoon,Asia
+A bathroom with green tile and a red shower curtain.,0,halfmoon_bathroom.jpg,halfmoon_bathroom.jpg,RU,ru,0.5548,0-17,Male,Technology,halfmoon,stablediffusion,halfmoon,halfmoon,Europe
+A bathroom with green tile and a red shower curtain.,0,halfmoon_bathroom.jpg,halfmoon_bathroom.jpg,IN,en,0.4364,18-29,Male,Education,halfmoon,stablediffusion,halfmoon,halfmoon,Asia
+A black colored banana.,1,dalle3_banana.jpg,dalle3_banana.jpg,EG,ar,0.4047,30-39,Female,Healthcare,4o,dalle3,dalle3,dalle3,Africa
+A black colored banana.,1,dalle3_banana.jpg,dalle3_banana.jpg,IN,en,0.3,Unknown,Unknown,Unknown,4o,dalle3,dalle3,dalle3,Asia
+A black colored banana.,1,dalle3_banana.jpg,4o_banana.jpg,AU,en,0.6199,50-64,Male,Other Employment,4o,dalle3,dalle3,4o,Oceania
+A black colored banana.,1,dalle3_banana.jpg,dalle3_banana.jpg,LY,ar,0.168,50-64,Female,Education,4o,dalle3,dalle3,dalle3,Africa
+A black colored banana.,1,dalle3_banana.jpg,dalle3_banana.jpg,IN,en,0.1467,40-49,Other,Technology,4o,dalle3,dalle3,dalle3,Asia
+A black colored banana.,1,halfmoon_banana.jpg,4o_banana.jpg,FR,fr,0.5505,Unknown,Unknown,Unknown,4o,halfmoon,halfmoon,4o,Europe
+A black colored banana.,1,halfmoon_banana.jpg,halfmoon_banana.jpg,DE,de,0.3932,18-29,Other,Skilled Manual Trades,4o,halfmoon,halfmoon,halfmoon,Europe
+A black colored banana.,1,halfmoon_banana.jpg,halfmoon_banana.jpg,DZ,en,0.6703,Unknown,Unknown,Unknown,4o,halfmoon,halfmoon,halfmoon,Africa
+A black colored banana.,1,halfmoon_banana.jpg,4o_banana.jpg,TR,tr,0.2712,30-39,Female,Unemployed or Student,4o,halfmoon,halfmoon,4o,Asia
+A black colored banana.,1,halfmoon_banana.jpg,halfmoon_banana.jpg,ES,es,0.2394,Unknown,Unknown,Unknown,4o,halfmoon,halfmoon,halfmoon,Europe
+A black colored banana.,0,4o_banana.jpg,4o_banana.jpg,EG,en,0.2052,18-29,Female,Education,4o,stablediffusion,4o,4o,Africa
+A black colored banana.,0,4o_banana.jpg,4o_banana.jpg,IN,en,0.2816,50-64,Male,Healthcare,4o,stablediffusion,4o,4o,Asia
+A black colored banana.,0,4o_banana.jpg,4o_banana.jpg,IN,en,0.3211,Unknown,Unknown,Unknown,4o,stablediffusion,4o,4o,Asia
+A black colored banana.,0,4o_banana.jpg,4o_banana.jpg,RU,ru,0.4707,30-39,Other,Skilled Manual Trades,4o,stablediffusion,4o,4o,Europe
+A black colored banana.,0,4o_banana.jpg,4o_banana.jpg,IN,en,0.4545,18-29,Other,Unemployed or Student,4o,stablediffusion,4o,4o,Asia
+A black colored banana.,1,halfmoon_banana.jpg,halfmoon_banana.jpg,DE,de,0.6193,Unknown,Unknown,Unknown,dalle3,halfmoon,halfmoon,halfmoon,Europe
+A black colored banana.,1,halfmoon_banana.jpg,dalle3_banana.jpg,RU,ru,0.3217,40-49,Other,Technology,dalle3,halfmoon,halfmoon,dalle3,Europe
+A black colored banana.,1,halfmoon_banana.jpg,halfmoon_banana.jpg,IT,it,0.5903,30-39,Other,Other Employment,dalle3,halfmoon,halfmoon,halfmoon,Europe
+A black colored banana.,1,halfmoon_banana.jpg,halfmoon_banana.jpg,KZ,ru,0.3752,Unknown,Unknown,Unknown,dalle3,halfmoon,halfmoon,halfmoon,Asia
+A black colored banana.,1,halfmoon_banana.jpg,halfmoon_banana.jpg,IN,en,0.3631,Unknown,Unknown,Unknown,dalle3,halfmoon,halfmoon,halfmoon,Asia
+A black colored banana.,1,halfmoon_banana.jpg,dalle3_banana.jpg,LY,ar,0.168,50-64,Female,Education,dalle3,halfmoon,halfmoon,dalle3,Africa
+A black colored banana.,0,dalle3_banana.jpg,dalle3_banana.jpg,IN,en,0.7334,Unknown,Unknown,Unknown,dalle3,stablediffusion,dalle3,dalle3,Asia
+A black colored banana.,0,dalle3_banana.jpg,dalle3_banana.jpg,RU,ru,0.5751,Unknown,Unknown,Unknown,dalle3,stablediffusion,dalle3,dalle3,Europe
+A black colored banana.,0,dalle3_banana.jpg,dalle3_banana.jpg,DE,de,0.3932,18-29,Other,Skilled Manual Trades,dalle3,stablediffusion,dalle3,dalle3,Europe
+A black colored banana.,0,dalle3_banana.jpg,dalle3_banana.jpg,EG,ar,0.2896,18-29,Male,Healthcare,dalle3,stablediffusion,dalle3,dalle3,Africa
+A black colored banana.,0,dalle3_banana.jpg,dalle3_banana.jpg,TR,tr,0.2434,18-29,Female,Other Employment,dalle3,stablediffusion,dalle3,dalle3,Asia
+A black colored banana.,0,halfmoon_banana.jpg,stablediffusion_banana.jpg,TN,fr,0.5068,Unknown,Unknown,Unknown,halfmoon,stablediffusion,halfmoon,stablediffusion,Africa
+A black colored banana.,0,halfmoon_banana.jpg,halfmoon_banana.jpg,EG,ar,0.6769,Unknown,Unknown,Unknown,halfmoon,stablediffusion,halfmoon,halfmoon,Africa
+A black colored banana.,0,halfmoon_banana.jpg,stablediffusion_banana.jpg,IN,en,0.3288,50-64,Male,Unemployed or Student,halfmoon,stablediffusion,halfmoon,stablediffusion,Asia
+A black colored banana.,0,halfmoon_banana.jpg,stablediffusion_banana.jpg,EG,en,0.6452,Unknown,Unknown,Unknown,halfmoon,stablediffusion,halfmoon,stablediffusion,Africa
+A black colored banana.,0,halfmoon_banana.jpg,halfmoon_banana.jpg,IN,en,0.5203,30-39,Female,Unemployed or Student,halfmoon,stablediffusion,halfmoon,halfmoon,Asia
+A black colored banana.,0,halfmoon_banana.jpg,halfmoon_banana.jpg,PH,en,0.5819,65+,Female,Unemployed or Student,halfmoon,stablediffusion,halfmoon,halfmoon,Asia
+A black colored banana.,0,4o_banana.jpg,4o_banana.jpg,IT,it,0.3583,30-39,Male,Healthcare,4o,dalle3,4o,4o,Europe
+A black colored banana.,0,4o_banana.jpg,4o_banana.jpg,EG,ar,0.3726,0-17,Female,Unemployed or Student,4o,dalle3,4o,4o,Africa
+A black colored banana.,0,4o_banana.jpg,4o_banana.jpg,AU,en,0.6199,50-64,Male,Other Employment,4o,dalle3,4o,4o,Oceania
+A black colored banana.,0,4o_banana.jpg,4o_banana.jpg,IN,en,0.2353,Unknown,Unknown,Unknown,4o,dalle3,4o,4o,Asia
+A black colored banana.,0,4o_banana.jpg,4o_banana.jpg,BO,es,0.336,Unknown,Unknown,Unknown,4o,dalle3,4o,4o,South America
+A black colored banana.,1,halfmoon_banana.jpg,halfmoon_banana.jpg,DZ,en,0.6579,Unknown,Unknown,Unknown,4o,halfmoon,halfmoon,halfmoon,Africa
+A black colored banana.,1,halfmoon_banana.jpg,halfmoon_banana.jpg,IN,en,0.4212,Unknown,Unknown,Unknown,4o,halfmoon,halfmoon,halfmoon,Asia
+A black colored banana.,1,halfmoon_banana.jpg,halfmoon_banana.jpg,EG,ar,0.4068,40-49,Other,Education,4o,halfmoon,halfmoon,halfmoon,Africa
+A black colored banana.,1,halfmoon_banana.jpg,4o_banana.jpg,IN,en,0.4017,18-29,Other,Education,4o,halfmoon,halfmoon,4o,Asia
+A black colored banana.,1,halfmoon_banana.jpg,halfmoon_banana.jpg,DE,de,0.3932,18-29,Other,Skilled Manual Trades,4o,halfmoon,halfmoon,halfmoon,Europe
+A black colored banana.,0,4o_banana.jpg,4o_banana.jpg,RU,ru,0.6403,50-64,Female,Other Employment,4o,stablediffusion,4o,4o,Europe
+A black colored banana.,0,4o_banana.jpg,stablediffusion_banana.jpg,VN,vi,0.0541,Unknown,Unknown,Unknown,4o,stablediffusion,4o,stablediffusion,Asia
+A black colored banana.,0,4o_banana.jpg,4o_banana.jpg,DZ,ar,0.62,Unknown,Unknown,Unknown,4o,stablediffusion,4o,4o,Africa
+A black colored banana.,0,4o_banana.jpg,4o_banana.jpg,IN,en,0.2963,18-29,Male,Healthcare,4o,stablediffusion,4o,4o,Asia
+A black colored banana.,0,4o_banana.jpg,4o_banana.jpg,FR,fr,0.6712,Unknown,Unknown,Unknown,4o,stablediffusion,4o,4o,Europe
+A black colored banana.,0,dalle3_banana.jpg,dalle3_banana.jpg,TR,tr,0.1858,0-17,Female,Education,dalle3,halfmoon,dalle3,dalle3,Asia
+A black colored banana.,0,dalle3_banana.jpg,dalle3_banana.jpg,EG,ar,0.3826,50-64,Female,Education,dalle3,halfmoon,dalle3,dalle3,Africa
+A black colored banana.,0,dalle3_banana.jpg,dalle3_banana.jpg,DZ,fr,0.3,Unknown,Unknown,Unknown,dalle3,halfmoon,dalle3,dalle3,Africa
+A black colored banana.,0,dalle3_banana.jpg,dalle3_banana.jpg,DE,de,0.186,Unknown,Unknown,Unknown,dalle3,halfmoon,dalle3,dalle3,Europe
+A black colored banana.,0,dalle3_banana.jpg,dalle3_banana.jpg,DE,de,0.6962,Unknown,Unknown,Unknown,dalle3,halfmoon,dalle3,dalle3,Europe
+A black colored banana.,0,dalle3_banana.jpg,dalle3_banana.jpg,PH,en,0.3721,65+,Male,Technology,dalle3,stablediffusion,dalle3,dalle3,Asia
+A black colored banana.,0,dalle3_banana.jpg,stablediffusion_banana.jpg,IN,en,0.0869,Unknown,Unknown,Unknown,dalle3,stablediffusion,dalle3,stablediffusion,Asia
+A black colored banana.,0,dalle3_banana.jpg,stablediffusion_banana.jpg,TZ,en,0.3,Unknown,Unknown,Unknown,dalle3,stablediffusion,dalle3,stablediffusion,Africa
+A black colored banana.,0,dalle3_banana.jpg,dalle3_banana.jpg,AO,pt,0.4338,Unknown,Unknown,Unknown,dalle3,stablediffusion,dalle3,dalle3,Africa
+A black colored banana.,0,dalle3_banana.jpg,stablediffusion_banana.jpg,IN,en,0.2328,0-17,Female,Other Creative & Media Professional,dalle3,stablediffusion,dalle3,stablediffusion,Asia
+A black colored banana.,0,halfmoon_banana.jpg,halfmoon_banana.jpg,BO,es,0.3385,0-17,Other,Other Employment,halfmoon,stablediffusion,halfmoon,halfmoon,South America
+A black colored banana.,0,halfmoon_banana.jpg,halfmoon_banana.jpg,IN,en,0.7491,Unknown,Unknown,Unknown,halfmoon,stablediffusion,halfmoon,halfmoon,Asia
+A black colored banana.,0,halfmoon_banana.jpg,halfmoon_banana.jpg,BD,en,0.3266,Unknown,Unknown,Unknown,halfmoon,stablediffusion,halfmoon,halfmoon,Asia
+A black colored banana.,0,halfmoon_banana.jpg,halfmoon_banana.jpg,RS,hr,0.4042,18-29,Female,Healthcare,halfmoon,stablediffusion,halfmoon,halfmoon,Europe
+A black colored banana.,0,halfmoon_banana.jpg,stablediffusion_banana.jpg,RS,en,0.6187,40-49,Male,Other Employment,halfmoon,stablediffusion,halfmoon,stablediffusion,Europe
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,4o_baseball.jpg,EG,ar,0.4068,40-49,Other,Education,4o,dalle3,4o,4o,Africa
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,dalle3_baseball.jpg,RS,sr,0.7039,50-64,Male,Education,4o,dalle3,4o,dalle3,Europe
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,4o_baseball.jpg,DE,de,0.5595,0-17,Male,Other Employment,4o,dalle3,4o,4o,Europe
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,dalle3_baseball.jpg,IN,en,0.2963,18-29,Male,Healthcare,4o,dalle3,4o,dalle3,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,4o_baseball.jpg,BF,fr,0.3451,30-39,Other,Other Employment,4o,dalle3,4o,4o,Africa
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,halfmoon_baseball.jpg,IN,en,0.3,Unknown,Unknown,Unknown,4o,halfmoon,4o,halfmoon,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,4o_baseball.jpg,RU,ru,0.6807,50-64,Male,Technology,4o,halfmoon,4o,4o,Europe
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,4o_baseball.jpg,FR,fr,0.4577,Unknown,Unknown,Unknown,4o,halfmoon,4o,4o,Europe
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,halfmoon_baseball.jpg,TR,tr,0.3921,Unknown,Unknown,Unknown,4o,halfmoon,4o,halfmoon,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,4o_baseball.jpg,TR,tr,0.4201,0-17,Female,Other Employment,4o,halfmoon,4o,4o,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,4o_baseball.jpg,DE,de,0.4309,50-64,Female,None of these,4o,stablediffusion,4o,4o,Europe
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,4o_baseball.jpg,IN,en,0.4129,18-29,Male,Education,4o,stablediffusion,4o,4o,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,4o_baseball.jpg,DE,de,0.3932,18-29,Other,Skilled Manual Trades,4o,stablediffusion,4o,4o,Europe
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,stablediffusion_baseball.jpg,AU,en,0.6199,50-64,Male,Other Employment,4o,stablediffusion,4o,stablediffusion,Oceania
+A baseball player in a blue and white uniform is next to a player in black and white.,0,4o_baseball.jpg,4o_baseball.jpg,MZ,pt,0.5982,50-64,Other,Creative & Media,4o,stablediffusion,4o,4o,Africa
+A baseball player in a blue and white uniform is next to a player in black and white.,0,dalle3_baseball.jpg,halfmoon_baseball.jpg,TZ,ar,0.6335,18-29,Male,Unknown,dalle3,halfmoon,dalle3,halfmoon,Africa
+A baseball player in a blue and white uniform is next to a player in black and white.,0,dalle3_baseball.jpg,dalle3_baseball.jpg,RU,ru,0.6807,50-64,Male,Technology,dalle3,halfmoon,dalle3,dalle3,Europe
+A baseball player in a blue and white uniform is next to a player in black and white.,0,dalle3_baseball.jpg,dalle3_baseball.jpg,AZ,az,0.1065,Unknown,Unknown,Unknown,dalle3,halfmoon,dalle3,dalle3,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,0,dalle3_baseball.jpg,halfmoon_baseball.jpg,IN,en,0.2963,18-29,Male,Healthcare,dalle3,halfmoon,dalle3,halfmoon,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,0,dalle3_baseball.jpg,dalle3_baseball.jpg,IN,en,0.3,Unknown,Unknown,Unknown,dalle3,halfmoon,dalle3,dalle3,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,0,dalle3_baseball.jpg,dalle3_baseball.jpg,IN,en,0.001,0-17,Other,Unknown,dalle3,stablediffusion,dalle3,dalle3,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,0,dalle3_baseball.jpg,stablediffusion_baseball.jpg,VN,vi,0.0541,Unknown,Unknown,Unknown,dalle3,stablediffusion,dalle3,stablediffusion,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,0,dalle3_baseball.jpg,dalle3_baseball.jpg,MY,zh,0.6552,18-29,Male,Other Employment,dalle3,stablediffusion,dalle3,dalle3,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,0,dalle3_baseball.jpg,stablediffusion_baseball.jpg,IN,en,0.1712,Unknown,Unknown,Unknown,dalle3,stablediffusion,dalle3,stablediffusion,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,0,dalle3_baseball.jpg,dalle3_baseball.jpg,BR,pt,0.4375,Unknown,Unknown,Unknown,dalle3,stablediffusion,dalle3,dalle3,South America
+A baseball player in a blue and white uniform is next to a player in black and white.,0,halfmoon_baseball.jpg,stablediffusion_baseball.jpg,IN,en,0.3574,18-29,Other,Skilled Manual Trades,halfmoon,stablediffusion,halfmoon,stablediffusion,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,0,halfmoon_baseball.jpg,halfmoon_baseball.jpg,IN,en,0.5679,Unknown,Unknown,Unknown,halfmoon,stablediffusion,halfmoon,halfmoon,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,0,halfmoon_baseball.jpg,stablediffusion_baseball.jpg,IN,en,0.0926,18-29,Female,Unemployed or Student,halfmoon,stablediffusion,halfmoon,stablediffusion,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,0,halfmoon_baseball.jpg,halfmoon_baseball.jpg,IN,en,0.272,40-49,Female,Unemployed or Student,halfmoon,stablediffusion,halfmoon,halfmoon,Asia
+A baseball player in a blue and white uniform is next to a player in black and white.,0,halfmoon_baseball.jpg,halfmoon_baseball.jpg,ID,id,0.4469,Unknown,Unknown,Unknown,halfmoon,stablediffusion,halfmoon,halfmoon,Asia
+A black colored banana.,0,4o_banana.jpg,4o_banana.jpg,IN,en,0.6172,Unknown,Unknown,Unknown,4o,dalle3,4o,4o,Asia
+A black colored banana.,0,4o_banana.jpg,4o_banana.jpg,IN,en,0.4364,18-29,Male,Education,4o,dalle3,4o,4o,Asia
+A black colored banana.,0,4o_banana.jpg,dalle3_banana.jpg,ET,en,0.3571,40-49,Male,Student,4o,dalle3,4o,dalle3,Africa
+A black colored banana.,0,4o_banana.jpg,4o_banana.jpg,EG,en,0.3114,65+,Other,Unemployed or Student,4o,dalle3,4o,4o,Africa
+A black colored banana.,0,4o_banana.jpg,4o_banana.jpg,EG,ar,0.2618,65+,Other,None of these,4o,dalle3,4o,4o,Africa
+A black colored banana.,0,4o_banana.jpg,dalle3_banana.jpg,IN,en,0.6603,65+,Other,Other Employment,4o,dalle3,4o,dalle3,Asia
+A black colored banana.,1,halfmoon_banana.jpg,4o_banana.jpg,DE,de,0.3932,18-29,Other,Skilled Manual Trades,4o,halfmoon,halfmoon,4o,Europe
+A black colored banana.,1,halfmoon_banana.jpg,halfmoon_banana.jpg,EG,ar,0.2606,40-49,Female,Unemployed or Student,4o,halfmoon,halfmoon,halfmoon,Africa
+A black colored banana.,1,halfmoon_banana.jpg,halfmoon_banana.jpg,EG,en,0.6452,Unknown,Unknown,Unknown,4o,halfmoon,halfmoon,halfmoon,Africa
+A black colored banana.,1,halfmoon_banana.jpg,halfmoon_banana.jpg,EG,ar,0.2606,40-49,Female,Unemployed or Student,4o,halfmoon,halfmoon,halfmoon,Africa
+A black colored banana.,1,halfmoon_banana.jpg,halfmoon_banana.jpg,IN,en,0.6603,65+,Other,Other Employment,4o,halfmoon,halfmoon,halfmoon,Asia
+A black colored banana.,1,halfmoon_banana.jpg,halfmoon_banana.jpg,EG,ar,0.2371,Unknown,Unknown,Unknown,4o,halfmoon,halfmoon,halfmoon,Africa
+A black colored banana.,0,4o_banana.jpg,4o_banana.jpg,IT,it,0.3583,30-39,Male,Healthcare,4o,stablediffusion,4o,4o,Europe
+A black colored banana.,0,4o_banana.jpg,stablediffusion_banana.jpg,IN,en,0.0005,30-39,Female,Unknown,4o,stablediffusion,4o,stablediffusion,Asia
+A black colored banana.,0,4o_banana.jpg,4o_banana.jpg,TR,tr,0.2684,40-49,Male,Healthcare,4o,stablediffusion,4o,4o,Asia
+A black colored banana.,0,4o_banana.jpg,4o_banana.jpg,DZ,en,0.6703,Unknown,Unknown,Unknown,4o,stablediffusion,4o,4o,Africa
+A black colored banana.,0,4o_banana.jpg,stablediffusion_banana.jpg,EG,ar,0.4557,30-39,Female,Technology,4o,stablediffusion,4o,stablediffusion,Africa
+A black colored banana.,0,dalle3_banana.jpg,dalle3_banana.jpg,IN,en,0.0005,30-39,Female,Unknown,dalle3,halfmoon,dalle3,dalle3,Asia
+A black colored banana.,0,dalle3_banana.jpg,dalle3_banana.jpg,PL,pl,0.1287,40-49,Other,Skilled Manual Trades,dalle3,halfmoon,dalle3,dalle3,Europe
+A black colored banana.,0,dalle3_banana.jpg,dalle3_banana.jpg,EG,en,0.2052,18-29,Female,Education,dalle3,halfmoon,dalle3,dalle3,Africa
+A black colored banana.,0,dalle3_banana.jpg,halfmoon_banana.jpg,RS,hr,0.4042,18-29,Female,Healthcare,dalle3,halfmoon,dalle3,halfmoon,Europe
+A black colored banana.,0,dalle3_banana.jpg,dalle3_banana.jpg,BO,es,0.336,Unknown,Unknown,Unknown,dalle3,halfmoon,dalle3,dalle3,South America
+A black colored banana.,0,dalle3_banana.jpg,dalle3_banana.jpg,MY,en,0.5677,Unknown,Male,Unknown,dalle3,halfmoon,dalle3,dalle3,Asia
+A black colored banana.,0,dalle3_banana.jpg,stablediffusion_banana.jpg,UA,ru,0.2214,0-17,Unknown,Unknown,dalle3,stablediffusion,dalle3,stablediffusion,Europe
+A black colored banana.,0,dalle3_banana.jpg,stablediffusion_banana.jpg,TR,tr,0.3921,Unknown,Unknown,Unknown,dalle3,stablediffusion,dalle3,stablediffusion,Asia
+A black colored banana.,0,dalle3_banana.jpg,dalle3_banana.jpg,RU,ru,0.4707,30-39,Other,Skilled Manual Trades,dalle3,stablediffusion,dalle3,dalle3,Europe
+A black colored banana.,0,dalle3_banana.jpg,dalle3_banana.jpg,unknown,EN,0.3,Unknown,Unknown,Unknown,dalle3,stablediffusion,dalle3,dalle3,Unknown
+A black colored banana.,0,dalle3_banana.jpg,dalle3_banana.jpg,DZ,en,0.6477,Unknown,Unknown,Unknown,dalle3,stablediffusion,dalle3,dalle3,Africa
+A black colored banana.,0,halfmoon_banana.jpg,halfmoon_banana.jpg,ES,es,0.6997,18-29,Female,Unknown,halfmoon,stablediffusion,halfmoon,halfmoon,Europe
+A black colored banana.,0,halfmoon_banana.jpg,halfmoon_banana.jpg,RU,ru,0.6593,65+,Other,Unknown,halfmoon,stablediffusion,halfmoon,halfmoon,Europe
+A black colored banana.,0,halfmoon_banana.jpg,halfmoon_banana.jpg,DZ,en,0.6654,Unknown,Unknown,Unknown,halfmoon,stablediffusion,halfmoon,halfmoon,Africa
+A black colored banana.,0,halfmoon_banana.jpg,stablediffusion_banana.jpg,IN,en,0.3982,Unknown,Unknown,Unknown,halfmoon,stablediffusion,halfmoon,stablediffusion,Asia
+A black colored banana.,0,halfmoon_banana.jpg,halfmoon_banana.jpg,DE,de,0.5595,0-17,Male,Other Employment,halfmoon,stablediffusion,halfmoon,halfmoon,Europe
