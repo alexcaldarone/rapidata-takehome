@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+import pycountry_convert as pc
 
 def get_model_name_from_df(
         row: pd.Series,
@@ -14,5 +15,11 @@ def get_model_name_from_df(
 
     return model_names
 
-def preprocess_dataframe():
-    pass
+def country_code_to_continent(code: str) -> str:
+    try:
+        code = code.upper()
+        continent = pc.country_alpha2_to_continent_code(code)
+        continent = pc.convert_continent_code_to_continent_name(continent)
+        return continent
+    except:
+        return "Unknown"
