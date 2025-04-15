@@ -5,10 +5,15 @@ import pycountry_convert as pc
 def get_model_name_from_df(
         row: pd.Series,
 ) -> str:
-    # receives as input a row of the dataframe
-    # and, using the column aggregated_results,
-    # gets the model names from the json and returns them
+    """
+    Gets the names of the models compared in the study from the DataFrame.
 
+    Args:
+        row (pd.Series): A row from the DataFrame containing the model names.
+    
+    Returns:
+        str: The name of the model.
+    """
     model_names = row["aggregatedResults"]
 
     model_names = [model_name.split("_")[0] for model_name in model_names]
@@ -16,6 +21,15 @@ def get_model_name_from_df(
     return model_names
 
 def country_code_to_continent(code: str) -> str:
+    """
+    Converts a country code to its continent name.
+
+    Args:
+        code (str): The country code.
+    
+    Returns:
+        str: The continent name.
+    """
     try:
         code = code.upper()
         continent = pc.country_alpha2_to_continent_code(code)

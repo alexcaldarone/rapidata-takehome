@@ -16,6 +16,15 @@ ACCESS_TOKEN = os.getenv("ACCESS_TOKEN")
 def get_prompts(
         prompt_file_name: str
 ) -> Dict:
+    """
+    Retrieves prompts from a JSON file.
+
+    Args:
+        prompt_file_name (str): Name of the JSON file containing prompts.
+
+    Returns:
+        Dict: A dictionary containing prompts.
+    """
     curr_path = Path(__file__).parent.parent
     prompt_file_path = curr_path / "data" / prompt_file_name
     
@@ -27,6 +36,17 @@ def get_prompts(
 def get_image_prompt_pairs(
         model_names: List[str]
 ) -> Union[List[List[str]], List[str]]:
+    """
+    Gets image and prompt pairs for the specified models to pass to Rapidata order.
+
+    Args:
+        model_names (List[str]): List of model names.
+    
+    Returns:
+        Union[List[List[str]], List[str]]:
+            - List of image paths.
+            - List of prompts.
+    """
     curr_path = Path(__file__).parent.parent
     images_folder = curr_path / "images"
 
@@ -55,6 +75,20 @@ def get_image_preference(
         task_name: str = "Image Prompt Alignment Test",
         instruction: str = "Which image follows the prompt more accurately?",
 ):
+    """
+    Creates a Rapidata order for image preference testing.
+
+    Args:
+        rapi (RapidataClient): Rapidata client instance.
+        prompts (List[str]): List of prompts.
+        images (List[List[str]]): List of image pairs.
+        responses_per_datapoint (int): Number of responses per datapoint.
+        task_name (str): Name of the task.
+        instruction (str): Instruction for the task.
+    
+    Returns:
+        RapidataOrder: Rapidata order.
+    """
     order = rapi.order.create_compare_order(
         name=task_name,
         instruction=instruction,
