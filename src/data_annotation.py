@@ -4,10 +4,10 @@ from typing import List, Dict, Union
 import os
 import json
 
-from dotenv import load_dotenv
+from dotenv import load_dotenv, find_dotenv
 from rapidata import RapidataClient
 
-load_dotenv()
+load_dotenv(find_dotenv())
 
 CLIENT_ID = os.getenv("CLIENT_ID")
 ACCESS_TOKEN = os.getenv("ACCESS_TOKEN")
@@ -16,8 +16,8 @@ ACCESS_TOKEN = os.getenv("ACCESS_TOKEN")
 def get_prompts(
         prompt_file_name: str
 ) -> Dict:
-    curr_path = Path(__file__).parent
-    prompt_file_path = curr_path / prompt_file_name
+    curr_path = Path(__file__).parent.parent
+    prompt_file_path = curr_path / "data" / prompt_file_name
     
     with open(prompt_file_path, "r") as f:
         prompts = json.load(f)
@@ -27,7 +27,7 @@ def get_prompts(
 def get_image_prompt_pairs(
         model_names: List[str]
 ) -> Union[List[List[str]], List[str]]:
-    curr_path = Path(__file__).parent
+    curr_path = Path(__file__).parent.parent
     images_folder = curr_path / "images"
 
     # assuming the file names in the model directories are the same
@@ -51,12 +51,14 @@ def get_image_preference(
         rapi: RapidataClient,
         prompts: List[str],
         images: List[List[str]],
-        num_models: int = 4
+        responses_per_datapoint: int = 5,
+        task_name: str = "Image Prompt Alignment Test",
+        instruction: str = "Which image follows the prompt more accurately?",
 ):
     order = rapi.order.create_compare_order(
-        name="Image Prompt Alignment Test",
-        instruction="Which image follows the prompt more accurately?",
-        responses_per_datapoint=5,
+        name=task_name,
+        instruction=instruction,
+        responses_per_datapoint=responses_per_datapoint,
         datapoints=images,
         contexts=prompts
     ).run()
@@ -64,10 +66,14 @@ def get_image_preference(
     return order
 
 if __name__ == "__main__":
+    # get path to data folder
+    curr_path = Path(__file__).parent.parent
+    data_folder = curr_path / "data"
+
     rapi = RapidataClient(client_id=CLIENT_ID, client_secret=ACCESS_TOKEN)
     images, prompts = get_image_prompt_pairs(["4o", "dalle3", "halfmoon", "stablediffusion"])
     order = get_image_preference(rapi, prompts, images)
     order.display_progress_bar()
     results = order.get_results()
-    results.to_json("results.json")
+    results.to_json(f"{data_folder}/results.json")
     print("Results saved to results.json")
