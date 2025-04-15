@@ -1,3 +1,8 @@
+"""
+Bradley-Terry model for pairwise comparisons
+https://en.wikipedia.org/wiki/Bradley%E2%80%93Terry_model
+"""
+
 import numpy as np
 
 class BradleyTerry():
@@ -18,7 +23,6 @@ class BradleyTerry():
         maxiter: int =1000,
 ):
         # X is a dataframe with columns 'model1', 'model2', and 'outcome'
-        # one parameter per model
         # p is a dictionary with model names as keys and their parameters as values
         self.X = X
         self.models = set(X[model1_column]) | set(X[model2_column])
